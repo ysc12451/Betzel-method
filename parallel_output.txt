@@ -1,0 +1,3 @@
+MATLAB is selecting SOFTWARE OPENGL rendering.
+MATLAB is selecting SOFTWARE OPENGL rendering.
+MATLAB is selecting SOFTWARE OPENGL rendering.

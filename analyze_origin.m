@@ -1,7 +1,7 @@
 function [] = analyze_origin(cur_dir, samplesTotal)
 
-    adj = readNPY(cur_dir+"\"+"adj_mus_dynamic.npy");
-    z = readNPY(cur_dir+"\"+"z_mus_dynamic.npy");
+    adj = readNPY(cur_dir+"/"+"adj_mus_dynamic.npy");
+    z = readNPY(cur_dir+"/"+"z_mus_dynamic.npy");
     B = permute(adj, [3,4,1,2]);
     sizeB = size(B);
     A = reshape(B, sizeB(1),sizeB(2),sizeB(3)*sizeB(4),1);

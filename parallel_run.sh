@@ -22,12 +22,16 @@ done > parallel_output.txt
 
 doit(){
   P=$1
-  outfile=$(echo $P | cut -d'/' -f5);
-  matlab -nodesktop -nosplash -r "filename='$P';test1127;quit" > /storage08/shuchen/output1127/$outfile.txt
+  # echo $P
+  part1=$(echo $P | cut -d'/' -f5);
+  part2=$(echo $P | cut -d'/' -f7);
+  outfile=${part1}_${part2};
+  echo $outfile;
+  matlab -nodesktop -nosplash -r "filename='$P';run_Betzel;quit" > /storage08/shuchen/output/$outfile.txt
 }
 
 export -f doit
 
-date; parallel -j 3 doit :::: /storage08/shuchen/parallel_dirs.txt; date;
+date; parallel -j 27 doit :::: /storage08/shuchen/filepaths.txt; date;
 
-nohup
+head -n 1 /storage08/shuchen/filepaths.txt | doit 

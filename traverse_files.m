@@ -1,5 +1,4 @@
-function [] = traverse_files(cur_dir)  
-    samplesTotal = 100;
+function [] = traverse_files(cur_dir, samplesTotal)  
     disp(cur_dir);
     sub_dir = dir(cur_dir);
     for i = 1:length(sub_dir)

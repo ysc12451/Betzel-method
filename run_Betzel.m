@@ -8,4 +8,4 @@ filename = string(filename);
 samplesTotal = 100;
 
 % traverse_files(filename, samplesTotal);
-% analyze_origin(filename, samplesTotal);
+analyze_origin(filename, samplesTotal);

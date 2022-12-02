@@ -31,7 +31,8 @@ function [] = plot_all_ari(main_dir, option, tuned)
         temp = reshape(temp,[length(G),1]);
         
         caxis([0, 1]);
-        sgtitle(main_dir(64:67));
+        % sgtitle(main_dir(64:67));
+        sgtitle(main_dir(42:45));
         subplot(9,3,i-2);
         
         if option == 1
@@ -62,7 +63,8 @@ function [] = plot_all_ari(main_dir, option, tuned)
             boxchart(ari_flat);
         end
         
-        char_count = 60;
+        % char_count = 105;
+        char_count = 83;
         para = ['r_t=0.' , char_dir(char_count) , ', r_s=0.' , char_dir(char_count+25) , ', T=' , char_dir(char_count+14)];
         title(para);
 

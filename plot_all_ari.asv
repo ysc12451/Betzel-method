@@ -16,9 +16,9 @@ function [] = plot_all_ari(main_dir, option, tuned)
             G = load([main_dir, '/',cur_dir,'/0/G_opt.mat']).G;
             O = load([main_dir, '/',cur_dir,'/0/O_opt.mat']).O;
         else
-            ari = load([main_dir, '/', cur_dir,'/0/aris_ori.mat']).aris;
-            G = load([main_dir, '/',cur_dir,'/0/G.mat']).G;
-            O = load([main_dir, '/',cur_dir,'/0/O.mat']).O;
+            ari = load([main_dir, '/', cur_dir,'\0\aris_ori.mat']).aris;
+            G = load([main_dir, '/',cur_dir,'\0\G.mat']).G;
+            O = load([main_dir, '/',cur_dir,'\0\O.mat']).O;
         end
         
         max_color_value = size(ari);
@@ -62,7 +62,7 @@ function [] = plot_all_ari(main_dir, option, tuned)
             boxchart(ari_flat);
         end
         
-        char_count = 60;
+        char_count = 105;
         para = ['r_t=0.' , char_dir(char_count) , ', r_s=0.' , char_dir(char_count+25) , ', T=' , char_dir(char_count+14)];
         title(para);
 

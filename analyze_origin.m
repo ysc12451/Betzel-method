@@ -1,4 +1,5 @@
 function [] = analyze_origin(cur_dir, samplesTotal)
+    fprintf("using "+cur_dir+"/"+"adj_mus_dynamic.npy");
 
     adj = readNPY(cur_dir+"/"+"adj_mus_dynamic.npy");
     z = readNPY(cur_dir+"/"+"z_mus_dynamic.npy");
@@ -11,7 +12,7 @@ function [] = analyze_origin(cur_dir, samplesTotal)
     for i = 1:T         % populate array
         C{i} = A(:,:,i); % i-th layer of A, 100*100
     end
-    
+
     %     set some parameters
     gammarange = [double(min(A(:))), double(max(A(:)))]; % range of gamma values to consider
     omegarange = [-0.5,1.5];            % range of omega values to consider

@@ -36,8 +36,8 @@ function [] = plot_all_ari(main_dir, option, tuned)
         
         if option == 1
             scatter(G,O,sz, mm_ari,"filled");
-            xlim([0, 0.2]);
-            ylim([0, 0.5]);
+            xlim([0, 1]);
+            ylim([-0.5, 1.5]);
             xlabel("gamma");
             ylabel("omega");
             colorbar;

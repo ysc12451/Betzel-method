@@ -3664,3 +3664,1590 @@ settingSSoS_r_time5-time_horizon4-r_subject0-num_subjects8_0
 Finished
 MoTTY X11 proxy: unable to connect to forwarded X server: Network error: Software caused connection abort
 MoTTY X11 proxy: unable to connect to forwarded X server: Network error: Software caused connection abort
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon4-r_subject5-num_subjects8/0/
+settingSSoS_r_time0-time_horizon4-r_subject5-num_subjects8_0
+Finished
+Nativewindow X11 IOError: Display 0x7faa64c27bb0 (localhost:12.0): Resource temporarily unavailable
+Nativewindow X11 IOError: Display 0x7faa64c27bb0 (localhost:12.0): Resource temporarily unavailable
+MATLAB: javainit.cpp:1409: void {anonymous}::mwJavaAbort(): Assertion `Fatal Java Exception. See this file for details: /u/s/y/syan58/hs_error_pid53363.log' failed.
+
+--------------------------------------------------------------------------------
+                Assertion detected at 2022-12-02 17:21:14 -0600
+--------------------------------------------------------------------------------
+
+Configuration:
+  Crash Decoding           : Disabled - No sandbox or build area path
+  Crash Mode               : continue (default)
+  Default Encoding         : UTF-8
+  Deployed                 : false
+  GNU C Library            : 2.31 stable
+  Graphics Driver          : Brian Paul Mesa X11 Version 2.1 Mesa 17.1.3
+  Graphics Text Issue Info : xmin=-16.500000, ymin=-6.375000, xmax=0.000000, ymax=6.375000
+  Graphics card 1          : 0x1a03 ( 0x1a03 ) 0x2000 Version 0.0.0.0 (0-0-0)
+  Java Version             : Java 1.8.0_202-b08 with Oracle Corporation Java HotSpot(TM) 64-Bit Server VM mixed mode
+  MATLAB Architecture      : glnxa64
+  MATLAB Entitlement ID    : 1263506
+  MATLAB Root              : /afs/cs.wisc.edu/s/matlab-2021b
+  MATLAB Version           : 9.11.0.1837725 (R2021b) Update 2
+  OpenGL                   : software
+  Operating System         : Ubuntu 20.04.5 LTS
+  Process ID               : 2478195
+  Processor ID             : x86 Family 6 Model 79 Stepping 1, GenuineIntel
+  Session Key              : 3fe95255-bbef-47b8-bcc2-6bf2bf7ad476
+  Static TLS mitigation    : Enabled: Full
+  Window System            : Moba/X (12101003), display localhost:12.0
+
+Fault Count: 1
+
+
+Additional Log Files:
+  Java Crash Report        : /u/s/y/syan58/hs_error_pid53363.log
+  Java Log                 : /u/s/y/syan58/java.log.53363
+
+
+Assertion in void {anonymous}::mwJavaAbort() at javainit.cpp line 1409:
+Fatal Java Exception. See this file for details: /u/s/y/syan58/hs_error_pid53363.log
+
+Current Thread: 'MCR 0 interpret' id 140371738289920
+
+Register State (captured):
+  RAX = 00007faad798d7d0  RBX = 00007fadd8ab8b88
+  RCX = 000000000000000a  RDX = 00007faad798ce50
+  RSP = 00007faad798c620  RBP = 00007faad798ca00
+  RSI = 00007fadd8a8052a  RDI = 00007faad798c630
+
+   R8 = 00007faad798c929   R9 = 00007faad798c929
+  R10 = 00007faad798c929  R11 = 00007faad798c929
+  R12 = 00007fadd8aa8b08  R13 = 00007fabc7e7f9e4
+  R14 = 00007fabc7e882a0  R15 = 00007faad798d2f0
+
+  RIP = 00007fadd8a1fb3e  EFL = 00007faaee521da8
+
+   CS = 0000   FS = 0000   GS = 7faa
+
+Stack Trace (captured):
+[  0] 0x00007fadd8a14c03 /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libmwfl.so+00388099
+[  1] 0x00007fadd8a14dfc /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libmwfl.so+00388604 _ZN10foundation4core4diag15stacktrace_base7captureEm+00000028
+[  2] 0x00007fadd8a18f45 /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libmwfl.so+00405317
+[  3] 0x00007fadd8a19080 /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libmwfl.so+00405632
+[  4] 0x00007fabc7e1934f /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/matlab_startup_plugins/jmi/../../../../bin/glnxa64/libmwjmi.so+01487695
+[  5] 0x00007faba0d00700 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+09496320
+[  6] 0x00007faba0ab773b /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+07100219
+[  7] 0x00007faa0c1a2c42 /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libnativewindow_x11.so+00011330 NativewindowCommon_FatalError+00000268
+[  8] 0x00007faa0c1a3988 /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libnativewindow_x11.so+00014728
+[  9] 0x00007fad586fd352              /usr/lib/x86_64-linux-gnu/libX11.so.6+00267090 _XIOError+00000082
+[ 10] 0x00007fad586faa0d              /usr/lib/x86_64-linux-gnu/libX11.so.6+00256525 _XEventsQueued+00000125
+[ 11] 0x00007fad586ec188              /usr/lib/x86_64-linux-gnu/libX11.so.6+00197000 XEventsQueued+00000088
+[ 12] 0x00007faaf55ae1cd                                   <unknown-module>+00000000
+[ 13] 0x00007faaf50a7d20                                   <unknown-module>+00000000
+[ 14] 0x00007faaf50a82dd                                   <unknown-module>+00000000
+[ 15] 0x00007faaf50a8322                                   <unknown-module>+00000000
+[ 16] 0x00007faaf50a07cb                                   <unknown-module>+00000000
+[ 17] 0x00007faba0a7a39b /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+06849435
+[ 18] 0x00007faba0a77c63 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+06839395
+[ 19] 0x00007faba0a78227 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+06840871
+[ 20] 0x00007faba0ae439c /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+07283612
+[ 21] 0x00007faba0e6d9eb /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+10992107
+[ 22] 0x00007faba0e6dcf1 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+10992881
+[ 23] 0x00007faba0cff8c2 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+09492674
+[ 24] 0x00007fadda447609              /lib/x86_64-linux-gnu/libpthread.so.0+00034313
+[ 25] 0x00007fadd9dd1133                    /lib/x86_64-linux-gnu/libc.so.6+01175859 clone+00000067
+
+** This crash report has been saved to disk as /u/s/y/syan58/matlab_crash_dump.2478195-1 **
+
+
+
+MATLAB is exiting because of fatal error
+environment: line 1: 2478195 Killed                  matlab -nodesktop -nosplash -r "filename='$P';run_Betzel;quit;" > /storage08/shuchen/output/$outfile.txt
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon8-r_subject5-num_subjects8/0/
+settingSSoS_r_time0-time_horizon8-r_subject5-num_subjects8_0
+Finished
+
+--------------------------------------------------------------------------------
+          Segmentation violation detected at 2022-12-02 17:21:14 -0600
+--------------------------------------------------------------------------------
+
+Configuration:
+  Crash Decoding           : Disabled - No sandbox or build area path
+  Crash Mode               : continue (default)
+  Default Encoding         : UTF-8
+  Deployed                 : false
+  GNU C Library            : 2.31 stable
+  Graphics Driver          : Unknown software 
+  Graphics card 1          : 0x1a03 ( 0x1a03 ) 0x2000 Version 0.0.0.0 (0-0-0)
+  Java Version             : Java 1.8.0_202-b08 with Oracle Corporation Java HotSpot(TM) 64-Bit Server VM mixed mode
+  MATLAB Architecture      : glnxa64
+  MATLAB Entitlement ID    : 1263506
+  MATLAB Root              : /afs/cs.wisc.edu/s/matlab-2021b
+  MATLAB Version           : 9.11.0.1837725 (R2021b) Update 2
+  OpenGL                   : software
+  Operating System         : Ubuntu 20.04.5 LTS
+  Process ID               : 2478071
+  Processor ID             : x86 Family 6 Model 79 Stepping 1, GenuineIntel
+  Session Key              : 75be60db-881d-4942-80b3-a0278ea499ad
+  Static TLS mitigation    : Enabled: Full
+  Window System            : Moba/X (12101003), display localhost:12.0
+
+Fault Count: 1
+
+
+Abnormal termination:
+Segmentation violation
+
+Current Thread: 'MATLAB' id 140520389691136
+
+Register State (from fault):
+  RAX = 00007fcd5c009240  RBX = 00007fcd73e93250
+  RCX = 000000000000776d  RDX = 00007fcd73e93120
+  RSP = 00007fcd73e93038  RBP = 00007fcd73e930c0
+  RSI = 00007fcd73e93250  RDI = 00000000000000f8
+
+   R8 = 0000000000000006   R9 = 00007fcd5c00d720
+  R10 = 00007fcd73e93014  R11 = 00000000000004d5
+  R12 = 00007fcd86a18c10  R13 = 00007fcd73e93120
+  R14 = 00007fcd73e93250  R15 = 00007fcd73e931b0
+
+  RIP = 00007fcd86a12fc4  EFL = 0000000000010202
+
+   CS = 0033   FS = 0000   GS = 0000
+
+Stack Trace (from fault):
+[  0] 0x00007fcd86a12fc4              /lib/x86_64-linux-gnu/libpthread.so.0+00044996 pthread_mutex_lock+00000004
+[  1] 0x00007fcd82f23d0d /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libCppMicroServices.so.3.6.4+00490765 _ZNK16cppmicroservices20ServiceReferenceBase11GetPropertyERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE+00000077
+[  2] 0x00007fc9d340789f /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/connector_plugins/connector/json/libmwconnectorjsonactivator.so+00059551
+[  3] 0x00007fc9d340a247 /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/connector_plugins/connector/json/libmwconnectorjsonactivator.so+00070215
+[  4] 0x00007fc9d340a463 /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/connector_plugins/connector/json/libmwconnectorjsonactivator.so+00070755
+[  5] 0x00007fc9d340cf00 /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/connector_plugins/connector/json/libmwconnectorjsonactivator.so+00081664
+[  6] 0x00007fcd82f1d86b /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libCppMicroServices.so.3.6.4+00465003
+[  7] 0x00007fcd82f1d90e /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libCppMicroServices.so.3.6.4+00465166
+[  8] 0x00007fcd82f2af98 /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libCppMicroServices.so.3.6.4+00520088 _ZN16cppmicroservices23ServiceRegistrationBase10UnregisterEv+00000456
+[  9] 0x00007fcd7db2f39d /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libDeclarativeServices.so.1.1.2+00594845
+[ 10] 0x00007fcd7db37ad1 /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libDeclarativeServices.so.1.1.2+00629457
+[ 11] 0x00007fcd7db21e99 /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libDeclarativeServices.so.1.1.2+00540313
+[ 12] 0x00007fcd86a194df              /lib/x86_64-linux-gnu/libpthread.so.0+00070879
+[ 13] 0x00007fcd84a585d6 /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libmwmlutil.so+08725974 _ZSt9call_onceIMNSt13__future_base13_State_baseV2EFvPSt8functionIFSt10unique_ptrINS0_12_Result_baseENS4_8_DeleterEEvEEPbEJPS1_S9_SA_EEvRSt9once_flagOT_DpOT0_+00000102
+[ 14] 0x00007fcd7db384b7 /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libDeclarativeServices.so.1.1.2+00631991
+[ 15] 0x00007fcd7db157c8 /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libDeclarativeServices.so.1.1.2+00489416
+[ 16] 0x00007fcd7db3bee1 /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libDeclarativeServices.so.1.1.2+00646881
+[ 17] 0x00007fcd7db1e535 /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libDeclarativeServices.so.1.1.2+00525621
+[ 18] 0x00007fcd7db21e99 /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libDeclarativeServices.so.1.1.2+00540313
+[ 19] 0x00007fcd86a194df              /lib/x86_64-linux-gnu/libpthread.so.0+00070879
+[ 20] 0x00007fcd84a585d6 /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libmwmlutil.so+08725974 _ZSt9call_onceIMNSt13__future_base13_State_baseV2EFvPSt8functionIFSt10unique_ptrINS0_12_Result_baseENS4_8_DeleterEEvEEPbEJPS1_S9_SA_EEvRSt9once_flagOT_DpOT0_+00000102
+[ 21] 0x00007fcd7db1bd2e /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libDeclarativeServices.so.1.1.2+00515374
+[ 22] 0x00007fcd7db1d10f /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libDeclarativeServices.so.1.1.2+00520463
+[ 23] 0x00007fcd7dad636b /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libDeclarativeServices.so.1.1.2+00230251
+[ 24] 0x00007fcd7dad6938 /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libDeclarativeServices.so.1.1.2+00231736 _ZN5boost4asio6detail12posix_thread4funcINS0_11thread_pool15thread_functionEE3runEv+00000056
+[ 25] 0x00007fcd7dad2eaf /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libDeclarativeServices.so.1.1.2+00216751
+[ 26] 0x00007fcd86a10609              /lib/x86_64-linux-gnu/libpthread.so.0+00034313
+[ 27] 0x00007fcd8639a133                    /lib/x86_64-linux-gnu/libc.so.6+01175859 clone+00000067
+
+** This crash report has been saved to disk as /u/s/y/syan58/matlab_crash_dump.2478071-1 **
+
+
+
+MATLAB is exiting because of fatal error
+environment: line 1: 2478071 Killed                  matlab -nodesktop -nosplash -r "filename='$P';run_Betzel;quit;" > /storage08/shuchen/output/$outfile.txt
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time5-time_horizon8-r_subject5-num_subjects8/0/
+settingSSoS_r_time5-time_horizon8-r_subject5-num_subjects8_0
+Finished
+Nativewindow X11 IOError: Display 0x7f1a68889a90 (localhost:12.0): Resource temporarily unavailable
+Nativewindow X11 IOError: Display 0x7f1a68889a90 (localhost:12.0): Resource temporarily unavailable
+MATLAB: javainit.cpp:1409: void {anonymous}::mwJavaAbort(): Assertion `Fatal Java Exception. See this file for details: /u/s/y/syan58/hs_error_pid53218.log' failed.
+
+--------------------------------------------------------------------------------
+                Assertion detected at 2022-12-02 17:21:14 -0600
+--------------------------------------------------------------------------------
+
+Configuration:
+  Crash Decoding           : Disabled - No sandbox or build area path
+  Crash Mode               : continue (default)
+  Default Encoding         : UTF-8
+  Deployed                 : false
+  GNU C Library            : 2.31 stable
+  Graphics Driver          : Brian Paul Mesa X11 Version 2.1 Mesa 17.1.3
+  Graphics Text Issue Info : xmin=-16.500000, ymin=-6.375000, xmax=0.000000, ymax=6.375000
+  Graphics card 1          : 0x1a03 ( 0x1a03 ) 0x2000 Version 0.0.0.0 (0-0-0)
+  Java Version             : Java 1.8.0_202-b08 with Oracle Corporation Java HotSpot(TM) 64-Bit Server VM mixed mode
+  MATLAB Architecture      : glnxa64
+  MATLAB Entitlement ID    : 1263506
+  MATLAB Root              : /afs/cs.wisc.edu/s/matlab-2021b
+  MATLAB Version           : 9.11.0.1837725 (R2021b) Update 2
+  OpenGL                   : software
+  Operating System         : Ubuntu 20.04.5 LTS
+  Process ID               : 2478050
+  Processor ID             : x86 Family 6 Model 79 Stepping 1, GenuineIntel
+  Session Key              : ab6cc2b0-0b88-407a-90fe-6a3eed735b8c
+  Static TLS mitigation    : Enabled: Full
+  Window System            : Moba/X (12101003), display localhost:12.0
+
+Fault Count: 1
+
+
+Additional Log Files:
+  Java Crash Report        : /u/s/y/syan58/hs_error_pid53218.log
+  Java Log                 : /u/s/y/syan58/java.log.53218
+
+
+Assertion in void {anonymous}::mwJavaAbort() at javainit.cpp line 1409:
+Fatal Java Exception. See this file for details: /u/s/y/syan58/hs_error_pid53218.log
+
+Current Thread: 'MCR 0 interpret' id 139753407837952
+
+Register State (captured):
+  RAX = 00007f1af8638678  RBX = 00007f1ddd3e6b88
+  RCX = 000000000000000a  RDX = 00007f1ae03ade50
+  RSP = 00007f1ae03ad620  RBP = 00007f1ae03ada00
+  RSI = 00007f1ddd3ae52a  RDI = 00007f1ae03ad630
+
+   R8 = 00007f1ae03ad929   R9 = 00007f1ae03ad929
+  R10 = 00007f1ae03ad929  R11 = 00007f1ae03ad929
+  R12 = 00007f1ddd3d6b08  R13 = 00007f1bd06809e4
+  R14 = 00007f1bd06892a0  R15 = 00007f1ae03ae2f0
+
+  RIP = 00007f1ddd34db3e  EFL = 00007f1a00000000
+
+   CS = 0000   FS = 0000   GS = 0000
+
+Stack Trace (captured):
+[  0] 0x00007f1ddd342c03 /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libmwfl.so+00388099
+[  1] 0x00007f1ddd342dfc /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libmwfl.so+00388604 _ZN10foundation4core4diag15stacktrace_base7captureEm+00000028
+[  2] 0x00007f1ddd346f45 /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libmwfl.so+00405317
+[  3] 0x00007f1ddd347080 /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libmwfl.so+00405632
+[  4] 0x00007f1bd061a34f /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/matlab_startup_plugins/jmi/../../../../bin/glnxa64/libmwjmi.so+01487695
+[  5] 0x00007f1b9d641700 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+09496320
+[  6] 0x00007f1b9d3f873b /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+07100219
+[  7] 0x00007f1a06528c42 /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libnativewindow_x11.so+00011330 NativewindowCommon_FatalError+00000268
+[  8] 0x00007f1a06529988 /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libnativewindow_x11.so+00014728
+[  9] 0x00007f1dc40c8352              /usr/lib/x86_64-linux-gnu/libX11.so.6+00267090 _XIOError+00000082
+[ 10] 0x00007f1dc40c5a0d              /usr/lib/x86_64-linux-gnu/libX11.so.6+00256525 _XEventsQueued+00000125
+[ 11] 0x00007f1dc40b7188              /usr/lib/x86_64-linux-gnu/libX11.so.6+00197000 XEventsQueued+00000088
+[ 12] 0x00007f1af9e5290d                                   <unknown-module>+00000000
+[ 13] 0x00007f1af9aa9d20                                   <unknown-module>+00000000
+[ 14] 0x00007f1af9aaa2dd                                   <unknown-module>+00000000
+[ 15] 0x00007f1af9aaa322                                   <unknown-module>+00000000
+[ 16] 0x00007f1af9aa27cb                                   <unknown-module>+00000000
+[ 17] 0x00007f1b9d3bb39b /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+06849435
+[ 18] 0x00007f1b9d3b8c63 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+06839395
+[ 19] 0x00007f1b9d3b9227 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+06840871
+[ 20] 0x00007f1b9d42539c /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+07283612
+[ 21] 0x00007f1b9d7ae9eb /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+10992107
+[ 22] 0x00007f1b9d7aecf1 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+10992881
+[ 23] 0x00007f1b9d6408c2 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+09492674
+[ 24] 0x00007f1dded75609              /lib/x86_64-linux-gnu/libpthread.so.0+00034313
+[ 25] 0x00007f1dde6ff133                    /lib/x86_64-linux-gnu/libc.so.6+01175859 clone+00000067
+
+** This crash report has been saved to disk as /u/s/y/syan58/matlab_crash_dump.2478050-1 **
+
+
+
+MATLAB is exiting because of fatal error
+environment: line 1: 2478050 Killed                  matlab -nodesktop -nosplash -r "filename='$P';run_Betzel;quit;" > /storage08/shuchen/output/$outfile.txt
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time2-time_horizon4-r_subject5-num_subjects8/0/
+settingSSoS_r_time2-time_horizon4-r_subject5-num_subjects8_0
+Finished
+Nativewindow X11 IOError: Display 0x7f5078b0ecd0 (localhost:12.0): Resource temporarily unavailable
+Nativewindow X11 IOError: Display 0x7f5078b0ecd0 (localhost:12.0): Resource temporarily unavailable
+MATLAB: javainit.cpp:1409: void {anonymous}::mwJavaAbort(): Assertion `Fatal Java Exception. See this file for details: /u/s/y/syan58/hs_error_pid53170.log' failed.
+
+--------------------------------------------------------------------------------
+                Assertion detected at 2022-12-02 17:21:14 -0600
+--------------------------------------------------------------------------------
+
+Configuration:
+  Crash Decoding           : Disabled - No sandbox or build area path
+  Crash Mode               : continue (default)
+  Default Encoding         : UTF-8
+  Deployed                 : false
+  GNU C Library            : 2.31 stable
+  Graphics Driver          : Brian Paul Mesa X11 Version 2.1 Mesa 17.1.3
+  Graphics Text Issue Info : xmin=-16.500000, ymin=-6.375000, xmax=0.000000, ymax=6.375000
+  Graphics card 1          : 0x1a03 ( 0x1a03 ) 0x2000 Version 0.0.0.0 (0-0-0)
+  Java Version             : Java 1.8.0_202-b08 with Oracle Corporation Java HotSpot(TM) 64-Bit Server VM mixed mode
+  MATLAB Architecture      : glnxa64
+  MATLAB Entitlement ID    : 1263506
+  MATLAB Root              : /afs/cs.wisc.edu/s/matlab-2021b
+  MATLAB Version           : 9.11.0.1837725 (R2021b) Update 2
+  OpenGL                   : software
+  Operating System         : Ubuntu 20.04.5 LTS
+  Process ID               : 2478002
+  Processor ID             : x86 Family 6 Model 79 Stepping 1, GenuineIntel
+  Session Key              : 5fed7603-c3e7-4e81-b8a8-efbea8d00279
+  Static TLS mitigation    : Enabled: Full
+  Window System            : Moba/X (12101003), display localhost:12.0
+
+Fault Count: 1
+
+
+Additional Log Files:
+  Java Crash Report        : /u/s/y/syan58/hs_error_pid53170.log
+  Java Log                 : /u/s/y/syan58/java.log.53170
+
+
+Assertion in void {anonymous}::mwJavaAbort() at javainit.cpp line 1409:
+Fatal Java Exception. See this file for details: /u/s/y/syan58/hs_error_pid53170.log
+
+Current Thread: 'MCR 0 interpret' id 139985669265152
+
+Register State (captured):
+  RAX = 00007f50f41707d0  RBX = 00007f53f0faab88
+  RCX = 000000000000000a  RDX = 00007f50f416fe50
+  RSP = 00007f50f416f620  RBP = 00007f50f416fa00
+  RSI = 00007f53f0f7252a  RDI = 00007f50f416f630
+
+   R8 = 00007f50f416f929   R9 = 00007f50f416f929
+  R10 = 00007f50f416f929  R11 = 00007f50f416f929
+  R12 = 00007f53f0f9ab08  R13 = 00007f52546639e4
+  R14 = 00007f525466c2a0  R15 = 00007f50f41702f0
+
+  RIP = 00007f53f0f11b3e  EFL = 00007f51a6918da8
+
+   CS = 0000   FS = 0000   GS = 7f51
+
+Stack Trace (captured):
+[  0] 0x00007f53f0f06c03 /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libmwfl.so+00388099
+[  1] 0x00007f53f0f06dfc /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libmwfl.so+00388604 _ZN10foundation4core4diag15stacktrace_base7captureEm+00000028
+[  2] 0x00007f53f0f0af45 /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libmwfl.so+00405317
+[  3] 0x00007f53f0f0b080 /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libmwfl.so+00405632
+[  4] 0x00007f52545fd34f /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/matlab_startup_plugins/jmi/../../../../bin/glnxa64/libmwjmi.so+01487695
+[  5] 0x00007f51b9206700 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+09496320
+[  6] 0x00007f51b8fbd73b /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+07100219
+[  7] 0x00007f4fa6c52c42 /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libnativewindow_x11.so+00011330 NativewindowCommon_FatalError+00000268
+[  8] 0x00007f4fa6c53988 /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libnativewindow_x11.so+00014728
+[  9] 0x00007f53844a9352              /usr/lib/x86_64-linux-gnu/libX11.so.6+00267090 _XIOError+00000082
+[ 10] 0x00007f53844a6a0d              /usr/lib/x86_64-linux-gnu/libX11.so.6+00256525 _XEventsQueued+00000125
+[ 11] 0x00007f5384498188              /usr/lib/x86_64-linux-gnu/libX11.so.6+00197000 XEventsQueued+00000088
+[ 12] 0x00007f510dc1304d                                   <unknown-module>+00000000
+[ 13] 0x00007f510d8a7d20                                   <unknown-module>+00000000
+[ 14] 0x00007f510d8a82dd                                   <unknown-module>+00000000
+[ 15] 0x00007f510d8a8322                                   <unknown-module>+00000000
+[ 16] 0x00007f510d8a07cb                                   <unknown-module>+00000000
+[ 17] 0x00007f51b8f8039b /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+06849435
+[ 18] 0x00007f51b8f7dc63 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+06839395
+[ 19] 0x00007f51b8f7e227 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+06840871
+[ 20] 0x00007f51b8fea39c /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+07283612
+[ 21] 0x00007f51b93739eb /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+10992107
+[ 22] 0x00007f51b9373cf1 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+10992881
+[ 23] 0x00007f51b92058c2 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+09492674
+[ 24] 0x00007f53f2939609              /lib/x86_64-linux-gnu/libpthread.so.0+00034313
+[ 25] 0x00007f53f22c3133                    /lib/x86_64-linux-gnu/libc.so.6+01175859 clone+00000067
+
+** This crash report has been saved to disk as /u/s/y/syan58/matlab_crash_dump.2478002-1 **
+
+
+
+MATLAB is exiting because of fatal error
+environment: line 1: 2478002 Killed                  matlab -nodesktop -nosplash -r "filename='$P';run_Betzel;quit;" > /storage08/shuchen/output/$outfile.txt
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time2-time_horizon4-r_subject0-num_subjects8/0/
+settingSSoS_r_time2-time_horizon4-r_subject0-num_subjects8_0
+Finished
+Nativewindow X11 IOError: Display 0x7fc170a382e0 (localhost:12.0): Resource temporarily unavailable
+Nativewindow X11 IOError: Display 0x7fc170a382e0 (localhost:12.0): Resource temporarily unavailable
+MATLAB: javainit.cpp:1409: void {anonymous}::mwJavaAbort(): Assertion `Fatal Java Exception. See this file for details: /u/s/y/syan58/hs_error_pid53287.log' failed.
+
+--------------------------------------------------------------------------------
+                Assertion detected at 2022-12-02 17:21:14 -0600
+--------------------------------------------------------------------------------
+
+Configuration:
+  Crash Decoding           : Disabled - No sandbox or build area path
+  Crash Mode               : continue (default)
+  Default Encoding         : UTF-8
+  Deployed                 : false
+  GNU C Library            : 2.31 stable
+  Graphics Driver          : Brian Paul Mesa X11 Version 2.1 Mesa 17.1.3
+  Graphics Text Issue Info : xmin=-16.500000, ymin=-6.375000, xmax=0.000000, ymax=6.375000
+  Graphics card 1          : 0x1a03 ( 0x1a03 ) 0x2000 Version 0.0.0.0 (0-0-0)
+  Java Version             : Java 1.8.0_202-b08 with Oracle Corporation Java HotSpot(TM) 64-Bit Server VM mixed mode
+  MATLAB Architecture      : glnxa64
+  MATLAB Entitlement ID    : 1263506
+  MATLAB Root              : /afs/cs.wisc.edu/s/matlab-2021b
+  MATLAB Version           : 9.11.0.1837725 (R2021b) Update 2
+  OpenGL                   : software
+  Operating System         : Ubuntu 20.04.5 LTS
+  Process ID               : 2478119
+  Processor ID             : x86 Family 6 Model 79 Stepping 1, GenuineIntel
+  Session Key              : 207581e7-7af2-4231-baae-a7ad2089dbeb
+  Static TLS mitigation    : Enabled: Full
+  Window System            : Moba/X (12101003), display localhost:12.0
+
+Fault Count: 1
+
+
+Additional Log Files:
+  Java Crash Report        : /u/s/y/syan58/hs_error_pid53287.log
+  Java Log                 : /u/s/y/syan58/java.log.53287
+
+
+Assertion in void {anonymous}::mwJavaAbort() at javainit.cpp line 1409:
+Fatal Java Exception. See this file for details: /u/s/y/syan58/hs_error_pid53287.log
+
+Current Thread: 'MCR 0 interpret' id 140471909029632
+
+Register State (captured):
+  RAX = 00007fc22a3d07d0  RBX = 00007fc4f3da0b88
+  RCX = 000000000000000a  RDX = 00007fc22a3cfe50
+  RSP = 00007fc22a3cf620  RBP = 00007fc22a3cfa00
+  RSI = 00007fc4f3d6852a  RDI = 00007fc22a3cf630
+
+   R8 = 00007fc22a3cf929   R9 = 00007fc22a3cf929
+  R10 = 00007fc22a3cf929  R11 = 00007fc22a3cf929
+  R12 = 00007fc4f3d90b08  R13 = 00007fc2e847c9e4
+  R14 = 00007fc2e84852a0  R15 = 00007fc22a3d02f0
+
+  RIP = 00007fc4f3d07b3e  EFL = 00000000c64beda8
+
+   CS = 0000   FS = 0000   GS = 0000
+
+Stack Trace (captured):
+[  0] 0x00007fc4f3cfcc03 /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libmwfl.so+00388099
+[  1] 0x00007fc4f3cfcdfc /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libmwfl.so+00388604 _ZN10foundation4core4diag15stacktrace_base7captureEm+00000028
+[  2] 0x00007fc4f3d00f45 /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libmwfl.so+00405317
+[  3] 0x00007fc4f3d01080 /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libmwfl.so+00405632
+[  4] 0x00007fc2e841634f /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/matlab_startup_plugins/jmi/../../../../bin/glnxa64/libmwjmi.so+01487695
+[  5] 0x00007fc2af925700 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+09496320
+[  6] 0x00007fc2af6dc73b /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+07100219
+[  7] 0x00007fc0c66f8c42 /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libnativewindow_x11.so+00011330 NativewindowCommon_FatalError+00000268
+[  8] 0x00007fc0c66f9988 /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libnativewindow_x11.so+00014728
+[  9] 0x00007fc4a8044352              /usr/lib/x86_64-linux-gnu/libX11.so.6+00267090 _XIOError+00000082
+[ 10] 0x00007fc4a8041a0d              /usr/lib/x86_64-linux-gnu/libX11.so.6+00256525 _XEventsQueued+00000125
+[ 11] 0x00007fc4a8033188              /usr/lib/x86_64-linux-gnu/libX11.so.6+00197000 XEventsQueued+00000088
+[ 12] 0x00007fc20536338d                                   <unknown-module>+00000000
+[ 13] 0x00007fc205007d20                                   <unknown-module>+00000000
+[ 14] 0x00007fc2050082dd                                   <unknown-module>+00000000
+[ 15] 0x00007fc205008322                                   <unknown-module>+00000000
+[ 16] 0x00007fc2050007cb                                   <unknown-module>+00000000
+[ 17] 0x00007fc2af69f39b /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+06849435
+[ 18] 0x00007fc2af69cc63 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+06839395
+[ 19] 0x00007fc2af69d227 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+06840871
+[ 20] 0x00007fc2af70939c /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+07283612
+[ 21] 0x00007fc2afa929eb /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+10992107
+[ 22] 0x00007fc2afa92cf1 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+10992881
+[ 23] 0x00007fc2af9248c2 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+09492674
+[ 24] 0x00007fc4f572f609              /lib/x86_64-linux-gnu/libpthread.so.0+00034313
+[ 25] 0x00007fc4f50b9133                    /lib/x86_64-linux-gnu/libc.so.6+01175859 clone+00000067
+
+** This crash report has been saved to disk as /u/s/y/syan58/matlab_crash_dump.2478119-1 **
+
+
+
+MATLAB is exiting because of fatal error
+environment: line 1: 2478119 Killed                  matlab -nodesktop -nosplash -r "filename='$P';run_Betzel;quit;" > /storage08/shuchen/output/$outfile.txt
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time5-time_horizon4-r_subject2-num_subjects8/0/
+settingSSoS_r_time5-time_horizon4-r_subject2-num_subjects8_0
+Finished
+Nativewindow X11 IOError: Display 0x7ff1b49e2030 (localhost:12.0): Resource temporarily unavailable
+Nativewindow X11 IOError: Display 0x7ff1b49e2030 (localhost:12.0): Resource temporarily unavailable
+MATLAB: javainit.cpp:1409: void {anonymous}::mwJavaAbort(): Assertion `Fatal Java Exception. See this file for details: /u/s/y/syan58/hs_error_pid53153.log' failed.
+
+--------------------------------------------------------------------------------
+                Assertion detected at 2022-12-02 17:21:14 -0600
+--------------------------------------------------------------------------------
+
+Configuration:
+  Crash Decoding           : Disabled - No sandbox or build area path
+  Crash Mode               : continue (default)
+  Default Encoding         : UTF-8
+  Deployed                 : false
+  GNU C Library            : 2.31 stable
+  Graphics Driver          : Brian Paul Mesa X11 Version 2.1 Mesa 17.1.3
+  Graphics Text Issue Info : xmin=-16.500000, ymin=-6.375000, xmax=0.000000, ymax=6.375000
+  Graphics card 1          : 0x1a03 ( 0x1a03 ) 0x2000 Version 0.0.0.0 (0-0-0)
+  Java Version             : Java 1.8.0_202-b08 with Oracle Corporation Java HotSpot(TM) 64-Bit Server VM mixed mode
+  MATLAB Architecture      : glnxa64
+  MATLAB Entitlement ID    : 1263506
+  MATLAB Root              : /afs/cs.wisc.edu/s/matlab-2021b
+  MATLAB Version           : 9.11.0.1837725 (R2021b) Update 2
+  OpenGL                   : software
+  Operating System         : Ubuntu 20.04.5 LTS
+  Process ID               : 2477985
+  Processor ID             : x86 Family 6 Model 79 Stepping 1, GenuineIntel
+  Session Key              : ab1102c2-20ae-4364-8b3e-5a0af6f59c03
+  Static TLS mitigation    : Enabled: Full
+  Window System            : Moba/X (12101003), display localhost:12.0
+
+Fault Count: 1
+
+
+Additional Log Files:
+  Java Crash Report        : /u/s/y/syan58/hs_error_pid53153.log
+  Java Log                 : /u/s/y/syan58/java.log.53153
+
+
+Assertion in void {anonymous}::mwJavaAbort() at javainit.cpp line 1409:
+Fatal Java Exception. See this file for details: /u/s/y/syan58/hs_error_pid53153.log
+
+Current Thread: 'MCR 0 interpret' id 140677854791424
+
+Register State (captured):
+  RAX = 00007ff23c78f600  RBX = 00007ff51f950b88
+  RCX = 000000000000000a  RDX = 00007ff21d8fee50
+  RSP = 00007ff21d8fe620  RBP = 00007ff21d8fea00
+  RSI = 00007ff51f91852a  RDI = 00007ff21d8fe630
+
+   R8 = 00007ff21d8fe929   R9 = 00007ff21d8fe929
+  R10 = 00007ff21d8fe929  R11 = 00007ff21d8fe929
+  R12 = 00007ff51f940b08  R13 = 00007ff34adda9e4
+  R14 = 00007ff34ade32a0  R15 = 00007ff21d8ff2f0
+
+  RIP = 00007ff51f8b7b3e  EFL = 00007ff2fa019b58
+
+   CS = 2d8c   FS = 3c76   GS = 7ff2
+
+Stack Trace (captured):
+[  0] 0x00007ff51f8acc03 /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libmwfl.so+00388099
+[  1] 0x00007ff51f8acdfc /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libmwfl.so+00388604 _ZN10foundation4core4diag15stacktrace_base7captureEm+00000028
+[  2] 0x00007ff51f8b0f45 /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libmwfl.so+00405317
+[  3] 0x00007ff51f8b1080 /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libmwfl.so+00405632
+[  4] 0x00007ff34ad7434f /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/matlab_startup_plugins/jmi/../../../../bin/glnxa64/libmwjmi.so+01487695
+[  5] 0x00007ff2db925700 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+09496320
+[  6] 0x00007ff2db6dc73b /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+07100219
+[  7] 0x00007ff0fa35cc42 /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libnativewindow_x11.so+00011330 NativewindowCommon_FatalError+00000268
+[  8] 0x00007ff0fa35d988 /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libnativewindow_x11.so+00014728
+[  9] 0x00007ff4fc0b9352              /usr/lib/x86_64-linux-gnu/libX11.so.6+00267090 _XIOError+00000082
+[ 10] 0x00007ff4fc0b6a0d              /usr/lib/x86_64-linux-gnu/libX11.so.6+00256525 _XEventsQueued+00000125
+[ 11] 0x00007ff4fc0a8188              /usr/lib/x86_64-linux-gnu/libX11.so.6+00197000 XEventsQueued+00000088
+[ 12] 0x00007ff23c6d66cd                                   <unknown-module>+00000000
+[ 13] 0x00007ff23c1add20                                   <unknown-module>+00000000
+[ 14] 0x00007ff23c1ae2dd                                   <unknown-module>+00000000
+[ 15] 0x00007ff23c1ae322                                   <unknown-module>+00000000
+[ 16] 0x00007ff23c1a67cb                                   <unknown-module>+00000000
+[ 17] 0x00007ff2db69f39b /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+06849435
+[ 18] 0x00007ff2db69cc63 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+06839395
+[ 19] 0x00007ff2db69d227 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+06840871
+[ 20] 0x00007ff2db70939c /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+07283612
+[ 21] 0x00007ff2dba929eb /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+10992107
+[ 22] 0x00007ff2dba92cf1 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+10992881
+[ 23] 0x00007ff2db9248c2 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+09492674
+[ 24] 0x00007ff5212df609              /lib/x86_64-linux-gnu/libpthread.so.0+00034313
+[ 25] 0x00007ff520c69133                    /lib/x86_64-linux-gnu/libc.so.6+01175859 clone+00000067
+
+** This crash report has been saved to disk as /u/s/y/syan58/matlab_crash_dump.2477985-1 **
+
+
+
+MATLAB is exiting because of fatal error
+environment: line 1: 2477985 Killed                  matlab -nodesktop -nosplash -r "filename='$P';run_Betzel;quit;" > /storage08/shuchen/output/$outfile.txt
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon4-r_subject2-num_subjects8/0/
+settingSSoS_r_time0-time_horizon4-r_subject2-num_subjects8_0
+Finished
+Nativewindow X11 IOError: Display 0x7fab90d95660 (localhost:12.0): Resource temporarily unavailable
+Nativewindow X11 IOError: Display 0x7fab90d95660 (localhost:12.0): Resource temporarily unavailable
+MATLAB: javainit.cpp:1409: void {anonymous}::mwJavaAbort(): Assertion `Fatal Java Exception. See this file for details: /u/s/y/syan58/hs_error_pid53411.log' failed.
+
+--------------------------------------------------------------------------------
+                Assertion detected at 2022-12-02 17:21:14 -0600
+--------------------------------------------------------------------------------
+
+Configuration:
+  Crash Decoding           : Disabled - No sandbox or build area path
+  Crash Mode               : continue (default)
+  Default Encoding         : UTF-8
+  Deployed                 : false
+  GNU C Library            : 2.31 stable
+  Graphics Driver          : Brian Paul Mesa X11 Version 2.1 Mesa 17.1.3
+  Graphics Text Issue Info : xmin=-16.500000, ymin=-6.375000, xmax=0.000000, ymax=6.375000
+  Graphics card 1          : 0x1a03 ( 0x1a03 ) 0x2000 Version 0.0.0.0 (0-0-0)
+  Java Version             : Java 1.8.0_202-b08 with Oracle Corporation Java HotSpot(TM) 64-Bit Server VM mixed mode
+  MATLAB Architecture      : glnxa64
+  MATLAB Entitlement ID    : 1263506
+  MATLAB Root              : /afs/cs.wisc.edu/s/matlab-2021b
+  MATLAB Version           : 9.11.0.1837725 (R2021b) Update 2
+  OpenGL                   : software
+  Operating System         : Ubuntu 20.04.5 LTS
+  Process ID               : 2478243
+  Processor ID             : x86 Family 6 Model 79 Stepping 1, GenuineIntel
+  Session Key              : b52f951f-4e76-46b5-ba3c-d44ce486bb3e
+  Static TLS mitigation    : Enabled: Full
+  Window System            : Moba/X (12101003), display localhost:12.0
+
+Fault Count: 1
+
+
+Additional Log Files:
+  Java Crash Report        : /u/s/y/syan58/hs_error_pid53411.log
+  Java Log                 : /u/s/y/syan58/java.log.53411
+
+
+Assertion in void {anonymous}::mwJavaAbort() at javainit.cpp line 1409:
+Fatal Java Exception. See this file for details: /u/s/y/syan58/hs_error_pid53411.log
+
+Current Thread: 'MCR 0 interpret' id 140376892208896
+
+Register State (captured):
+  RAX = 0000000000000000  RBX = 00007faf03787b88
+  RCX = 000000000000000a  RDX = 00007fac0acb5e50
+  RSP = 00007fac0acb5620  RBP = 00007fac0acb5a00
+  RSI = 00007faf0374f52a  RDI = 00007fac0acb5630
+
+   R8 = 00007fac0acb5929   R9 = 00007fac0acb5929
+  R10 = 00007fac0acb5929  R11 = 00007fac0acb5929
+  R12 = 00007faf03777b08  R13 = 00007facfe5d99e4
+  R14 = 00007facfe5e22a0  R15 = 00007fac0acb62f0
+
+  RIP = 00007faf036eeb3e  EFL = 00007fac4dd3c540
+
+   CS = 7000   FS = 90de   GS = 7fab
+
+Stack Trace (captured):
+[  0] 0x00007faf036e3c03 /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libmwfl.so+00388099
+[  1] 0x00007faf036e3dfc /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libmwfl.so+00388604 _ZN10foundation4core4diag15stacktrace_base7captureEm+00000028
+[  2] 0x00007faf036e7f45 /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libmwfl.so+00405317
+[  3] 0x00007faf036e8080 /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libmwfl.so+00405632
+[  4] 0x00007facfe57334f /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/matlab_startup_plugins/jmi/../../../../bin/glnxa64/libmwjmi.so+01487695
+[  5] 0x00007facbf925700 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+09496320
+[  6] 0x00007facbf6dc73b /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+07100219
+[  7] 0x00007fab10fb9c42 /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libnativewindow_x11.so+00011330 NativewindowCommon_FatalError+00000268
+[  8] 0x00007fab10fba988 /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libnativewindow_x11.so+00014728
+[  9] 0x00007faea44a9352              /usr/lib/x86_64-linux-gnu/libX11.so.6+00267090 _XIOError+00000082
+[ 10] 0x00007faea44a6a0d              /usr/lib/x86_64-linux-gnu/libX11.so.6+00256525 _XEventsQueued+00000125
+[ 11] 0x00007faea4498188              /usr/lib/x86_64-linux-gnu/libX11.so.6+00197000 XEventsQueued+00000088
+[ 12] 0x00007fac195344cd                                   <unknown-module>+00000000
+[ 13] 0x00007fac19007d20                                   <unknown-module>+00000000
+[ 14] 0x00007fac190082dd                                   <unknown-module>+00000000
+[ 15] 0x00007fac19008322                                   <unknown-module>+00000000
+[ 16] 0x00007fac190007cb                                   <unknown-module>+00000000
+[ 17] 0x00007facbf69f39b /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+06849435
+[ 18] 0x00007facbf69cc63 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+06839395
+[ 19] 0x00007facbf69d227 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+06840871
+[ 20] 0x00007facbf70939c /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+07283612
+[ 21] 0x00007facbfa929eb /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+10992107
+[ 22] 0x00007facbfa92cf1 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+10992881
+[ 23] 0x00007facbf9248c2 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+09492674
+[ 24] 0x00007faf05116609              /lib/x86_64-linux-gnu/libpthread.so.0+00034313
+[ 25] 0x00007faf04aa0133                    /lib/x86_64-linux-gnu/libc.so.6+01175859 clone+00000067
+
+** This crash report has been saved to disk as /u/s/y/syan58/matlab_crash_dump.2478243-1 **
+
+
+
+MATLAB is exiting because of fatal error
+environment: line 1: 2478243 Killed                  matlab -nodesktop -nosplash -r "filename='$P';run_Betzel;quit;" > /storage08/shuchen/output/$outfile.txt
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time5-time_horizon8-r_subject0-num_subjects8/0/
+settingSSoS_r_time5-time_horizon8-r_subject0-num_subjects8_0
+Finished
+corrupted double-linked list
+
+--------------------------------------------------------------------------------
+                 abort() detected at 2022-12-02 17:21:14 -0600
+--------------------------------------------------------------------------------
+
+Configuration:
+  Crash Decoding           : Disabled - No sandbox or build area path
+  Crash Mode               : continue (default)
+  Default Encoding         : UTF-8
+  Deployed                 : false
+  GNU C Library            : 2.31 stable
+  Graphics Driver          : Unknown software 
+  Graphics card 1          : 0x1a03 ( 0x1a03 ) 0x2000 Version 0.0.0.0 (0-0-0)
+  Java Version             : Java 1.8.0_202-b08 with Oracle Corporation Java HotSpot(TM) 64-Bit Server VM mixed mode
+  MATLAB Architecture      : glnxa64
+  MATLAB Entitlement ID    : 1263506
+  MATLAB Root              : /afs/cs.wisc.edu/s/matlab-2021b
+  MATLAB Version           : 9.11.0.1837725 (R2021b) Update 2
+  OpenGL                   : software
+  Operating System         : Ubuntu 20.04.5 LTS
+  Process ID               : 2478245
+  Processor ID             : x86 Family 6 Model 79 Stepping 1, GenuineIntel
+  Session Key              : 4f7d7cf0-b72b-490f-9ac3-4fb72906eb30
+  Static TLS mitigation    : Enabled: Full
+  Window System            : Moba/X (12101003), display localhost:12.0
+
+Fault Count: 1
+
+
+Abnormal termination:
+abort()
+
+Current Thread: 'MCR 0 interpret' id 140356316538624
+
+Register State (from fault):
+  RAX = 0000000000000000  RBX = 00007fa74063a700
+  RCX = 00007faa46d2200b  RDX = 0000000000000000
+  RSP = 00007fa740639280  RBP = 00007fa7406395d0
+  RSI = 00007fa740639280  RDI = 0000000000000002
+
+   R8 = 0000000000000000   R9 = 00007fa740639280
+  R10 = 0000000000000008  R11 = 0000000000000246
+  R12 = 00007fa7406394f0  R13 = 0000000000000010
+  R14 = 00007fa74826c000  R15 = 0000000000000001
+
+  RIP = 00007faa46d2200b  EFL = 0000000000000246
+
+   CS = 0033   FS = 0000   GS = 0000
+
+Stack Trace (from fault):
+[  0] 0x00007faa46d2200b                    /lib/x86_64-linux-gnu/libc.so.6+00274443 gsignal+00000203
+[  1] 0x00007faa46d01859                    /lib/x86_64-linux-gnu/libc.so.6+00141401 abort+00000299
+[  2] 0x00007faa46d6c26e                    /lib/x86_64-linux-gnu/libc.so.6+00578158
+[  3] 0x00007faa46d742fc                    /lib/x86_64-linux-gnu/libc.so.6+00611068
+[  4] 0x00007faa46d7494c                    /lib/x86_64-linux-gnu/libc.so.6+00612684
+[  5] 0x00007faa46d75e8b                    /lib/x86_64-linux-gnu/libc.so.6+00618123
+[  6] 0x00007faa46d25953                    /lib/x86_64-linux-gnu/libc.so.6+00289107
+[  7] 0x00007faa46d25a60                    /lib/x86_64-linux-gnu/libc.so.6+00289376 on_exit+00000000
+[  8] 0x00007faa0c04f35c              /usr/lib/x86_64-linux-gnu/libX11.so.6+00267100 _XIOError+00000092
+[  9] 0x00007faa0c04ca0d              /usr/lib/x86_64-linux-gnu/libX11.so.6+00256525 _XEventsQueued+00000125
+[ 10] 0x00007faa0c03e188              /usr/lib/x86_64-linux-gnu/libX11.so.6+00197000 XEventsQueued+00000088
+[ 11] 0x00007fa75135370d                                   <unknown-module>+00000000
+[ 12] 0x00007fa751007d20                                   <unknown-module>+00000000
+[ 13] 0x00007fa7510082dd                                   <unknown-module>+00000000
+[ 14] 0x00007fa751008322                                   <unknown-module>+00000000
+[ 15] 0x00007fa7510007cb                                   <unknown-module>+00000000
+[ 16] 0x00007fa805aa639b /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+06849435
+[ 17] 0x00007fa805aa3c63 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+06839395
+[ 18] 0x00007fa805aa4227 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+06840871
+[ 19] 0x00007fa805b1039c /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+07283612
+[ 20] 0x00007fa805e999eb /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+10992107
+[ 21] 0x00007fa805e99cf1 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+10992881
+[ 22] 0x00007fa805d2b8c2 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+09492674
+[ 23] 0x00007faa47474609              /lib/x86_64-linux-gnu/libpthread.so.0+00034313
+[ 24] 0x00007faa46dfe133                    /lib/x86_64-linux-gnu/libc.so.6+01175859 clone+00000067
+
+** This crash report has been saved to disk as /u/s/y/syan58/matlab_crash_dump.2478245-1 **
+
+
+
+MATLAB is exiting because of fatal error
+environment: line 1: 2478245 Killed                  matlab -nodesktop -nosplash -r "filename='$P';run_Betzel;quit;" > /storage08/shuchen/output/$outfile.txt
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time5-time_horizon4-r_subject5-num_subjects8/0/
+settingSSoS_r_time5-time_horizon4-r_subject5-num_subjects8_0
+Finished
+Nativewindow X11 IOError: Display 0x7fd168c98250 (localhost:12.0): Resource temporarily unavailable
+Nativewindow X11 IOError: Display 0x7fd168c98250 (localhost:12.0): Resource temporarily unavailable
+MATLAB: javainit.cpp:1409: void {anonymous}::mwJavaAbort(): Assertion `Fatal Java Exception. See this file for details: /u/s/y/syan58/hs_error_pid53392.log' failed.
+
+--------------------------------------------------------------------------------
+                Assertion detected at 2022-12-02 17:21:14 -0600
+--------------------------------------------------------------------------------
+
+Configuration:
+  Crash Decoding           : Disabled - No sandbox or build area path
+  Crash Mode               : continue (default)
+  Default Encoding         : UTF-8
+  Deployed                 : false
+  GNU C Library            : 2.31 stable
+  Graphics Driver          : Brian Paul Mesa X11 Version 2.1 Mesa 17.1.3
+  Graphics Text Issue Info : xmin=-16.500000, ymin=-6.375000, xmax=0.000000, ymax=6.375000
+  Graphics card 1          : 0x1a03 ( 0x1a03 ) 0x2000 Version 0.0.0.0 (0-0-0)
+  Java Version             : Java 1.8.0_202-b08 with Oracle Corporation Java HotSpot(TM) 64-Bit Server VM mixed mode
+  MATLAB Architecture      : glnxa64
+  MATLAB Entitlement ID    : 1263506
+  MATLAB Root              : /afs/cs.wisc.edu/s/matlab-2021b
+  MATLAB Version           : 9.11.0.1837725 (R2021b) Update 2
+  OpenGL                   : software
+  Operating System         : Ubuntu 20.04.5 LTS
+  Process ID               : 2478224
+  Processor ID             : x86 Family 6 Model 79 Stepping 1, GenuineIntel
+  Session Key              : 78800555-2fde-4a6d-b030-9d5086a6a195
+  Static TLS mitigation    : Enabled: Full
+  Window System            : Moba/X (12101003), display localhost:12.0
+
+Fault Count: 1
+
+
+Additional Log Files:
+  Java Crash Report        : /u/s/y/syan58/hs_error_pid53392.log
+  Java Log                 : /u/s/y/syan58/java.log.53392
+
+
+Assertion in void {anonymous}::mwJavaAbort() at javainit.cpp line 1409:
+Fatal Java Exception. See this file for details: /u/s/y/syan58/hs_error_pid53392.log
+
+Current Thread: 'MCR 0 interpret' id 140539362498304
+
+Register State (captured):
+  RAX = 00007fd1dec747d0  RBX = 00007fd4dfa44b88
+  RCX = 000000000000000a  RDX = 00007fd1dec73e50
+  RSP = 00007fd1dec73620  RBP = 00007fd1dec73a00
+  RSI = 00007fd4dfa0c52a  RDI = 00007fd1dec73630
+
+   R8 = 00007fd1dec73929   R9 = 00007fd1dec73929
+  R10 = 00007fd1dec73929  R11 = 00007fd1dec73929
+  R12 = 00007fd4dfa34b08  R13 = 00007fd2ce5d99e4
+  R14 = 00007fd2ce5e22a0  R15 = 00007fd1dec742f0
+
+  RIP = 00007fd4df9abb3e  EFL = 00007fd1e551d330
+
+   CS = 0000   FS = 0000   GS = 7fd1
+
+Stack Trace (captured):
+[  0] 0x00007fd4df9a0c03 /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libmwfl.so+00388099
+[  1] 0x00007fd4df9a0dfc /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libmwfl.so+00388604 _ZN10foundation4core4diag15stacktrace_base7captureEm+00000028
+[  2] 0x00007fd4df9a4f45 /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libmwfl.so+00405317
+[  3] 0x00007fd4df9a5080 /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libmwfl.so+00405632
+[  4] 0x00007fd2ce57334f /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/matlab_startup_plugins/jmi/../../../../bin/glnxa64/libmwjmi.so+01487695
+[  5] 0x00007fd29b925700 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+09496320
+[  6] 0x00007fd29b6dc73b /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+07100219
+[  7] 0x00007fd0e5857c42 /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libnativewindow_x11.so+00011330 NativewindowCommon_FatalError+00000268
+[  8] 0x00007fd0e5858988 /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libnativewindow_x11.so+00014728
+[  9] 0x00007fd4546fd352              /usr/lib/x86_64-linux-gnu/libX11.so.6+00267090 _XIOError+00000082
+[ 10] 0x00007fd4546faa0d              /usr/lib/x86_64-linux-gnu/libX11.so.6+00256525 _XEventsQueued+00000125
+[ 11] 0x00007fd4546ec188              /usr/lib/x86_64-linux-gnu/libX11.so.6+00197000 XEventsQueued+00000088
+[ 12] 0x00007fd1fc8195cd                                   <unknown-module>+00000000
+[ 13] 0x00007fd1fc3a7d20                                   <unknown-module>+00000000
+[ 14] 0x00007fd1fc3a82dd                                   <unknown-module>+00000000
+[ 15] 0x00007fd1fc3a8322                                   <unknown-module>+00000000
+[ 16] 0x00007fd1fc3a07cb                                   <unknown-module>+00000000
+[ 17] 0x00007fd29b69f39b /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+06849435
+[ 18] 0x00007fd29b69cc63 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+06839395
+[ 19] 0x00007fd29b69d227 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+06840871
+[ 20] 0x00007fd29b70939c /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+07283612
+[ 21] 0x00007fd29ba929eb /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+10992107
+[ 22] 0x00007fd29ba92cf1 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+10992881
+[ 23] 0x00007fd29b9248c2 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+09492674
+[ 24] 0x00007fd4e13d3609              /lib/x86_64-linux-gnu/libpthread.so.0+00034313
+[ 25] 0x00007fd4e0d5d133                    /lib/x86_64-linux-gnu/libc.so.6+01175859 clone+00000067
+
+** This crash report has been saved to disk as /u/s/y/syan58/matlab_crash_dump.2478224-1 **
+
+
+
+MATLAB is exiting because of fatal error
+environment: line 1: 2478224 Killed                  matlab -nodesktop -nosplash -r "filename='$P';run_Betzel;quit;" > /storage08/shuchen/output/$outfile.txt
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject2-num_subjects8/0/
+settingSSoS_r_time0-time_horizon2-r_subject2-num_subjects8_0
+Finished
+Nativewindow X11 IOError: Display 0x7fec85960120 (localhost:12.0): Resource temporarily unavailable
+Nativewindow X11 IOError: Display 0x7fee2e6fb2a0 (localhost:12.0): Resource temporarily unavailable
+Nativewindow X11 IOError: Display 0x7fee2e6fb2a0 (localhost:12.0): Resource temporarily unavailable
+Nativewindow X11 IOError: Display 0x7fec85960120 (localhost:12.0): Resource temporarily unavailable
+MATLAB: javainit.cpp:1409: void {anonymous}::mwJavaAbort(): Assertion `Fatal Java Exception. See this file for details: /u/s/y/syan58/hs_error_pid53470.log' failed.
+MATLAB: javainit.cpp:1409: void {anonymous}::mwJavaAbort(): Assertion `Fatal Java Exception. See this file for details: /u/s/y/syan58/hs_error_pid53470.log' failed.
+environment: line 1: 2478302 Aborted                 (core dumped) matlab -nodesktop -nosplash -r "filename='$P';run_Betzel;quit;" > /storage08/shuchen/output/$outfile.txt
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time2-time_horizon2-r_subject0-num_subjects8/0/
+settingSSoS_r_time2-time_horizon2-r_subject0-num_subjects8_0
+Finished
+Nativewindow X11 IOError: Display 0x7fa464109990 (localhost:12.0): Resource temporarily unavailable
+Nativewindow X11 IOError: Display 0x7fa4bcdbb7d0 (localhost:12.0): Resource temporarily unavailable
+Nativewindow X11 IOError: Display 0x7fa4bcdbb7d0 (localhost:12.0): Resource temporarily unavailable
+Nativewindow X11 IOError: Display 0x7fa464109990 (localhost:12.0): Resource temporarily unavailable
+MATLAB: javainit.cpp:1409: void {anonymous}::mwJavaAbort(): Assertion `Fatal Java Exception. See this file for details: /u/s/y/syan58/hs_error_pid53506.log' failed.
+MATLAB: javainit.cpp:1409: void {anonymous}::mwJavaAbort(): Assertion `Fatal Java Exception. See this file for details: /u/s/y/syan58/hs_error_pid53506.log' failed.
+environment: line 1: 2478338 Aborted                 (core dumped) matlab -nodesktop -nosplash -r "filename='$P';run_Betzel;quit;" > /storage08/shuchen/output/$outfile.txt
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time2-time_horizon8-r_subject2-num_subjects8/0/
+settingSSoS_r_time2-time_horizon8-r_subject2-num_subjects8_0
+Finished
+corrupted double-linked list
+
+--------------------------------------------------------------------------------
+          Segmentation violation detected at 2022-12-02 17:21:14 -0600
+--------------------------------------------------------------------------------
+
+Configuration:
+  Crash Decoding           : Disabled - No sandbox or build area path
+  Crash Mode               : continue (default)
+  Default Encoding         : UTF-8
+  Deployed                 : false
+  GNU C Library            : 2.31 stable
+  Graphics Driver          : Unknown software 
+  Graphics card 1          : 0x1a03 ( 0x1a03 ) 0x2000 Version 0.0.0.0 (0-0-0)
+  Java Version             : Java 1.8.0_202-b08 with Oracle Corporation Java HotSpot(TM) 64-Bit Server VM mixed mode
+  MATLAB Architecture      : glnxa64
+  MATLAB Entitlement ID    : 1263506
+  MATLAB Root              : /afs/cs.wisc.edu/s/matlab-2021b
+  MATLAB Version           : 9.11.0.1837725 (R2021b) Update 2
+  OpenGL                   : software
+  Operating System         : Ubuntu 20.04.5 LTS
+  Process ID               : 2478013
+  Processor ID             : x86 Family 6 Model 79 Stepping 1, GenuineIntel
+  Session Key              : fe1172b8-ee2f-4b4a-9650-9ff64e009cd8
+  Static TLS mitigation    : Enabled: Full
+  Window System            : Moba/X (12101003), display localhost:12.0
+
+Fault Count: 1
+
+
+Abnormal termination:
+Segmentation violation
+
+Current Thread: 'MCR 0 interpret' id 140654889854720
+
+Register State (from fault):
+  RAX = 00107d9e7f4594d0  RBX = 00007fefc2c60718
+  RCX = 00007fed94000030  RDX = 0000000000000001
+  RSP = 00007fecc4bed680  RBP = 0000000000000001
+  RSI = 0000000000000001  RDI = 00007fec400008d0
+
+   R8 = 0000000000000007   R9 = 00007fed9400007f
+  R10 = fffffffffffff407  R11 = 00007fefc2f0e310
+  R12 = 0000000000000000  R13 = 000000000000513d
+  R14 = 00007fefc2c652e8  R15 = 00007febff4584f0
+
+  RIP = 00007fefc2aba876  EFL = 0000000000010202
+
+   CS = 0033   FS = 0000   GS = 0000
+
+Stack Trace (from fault):
+[  0] 0x00007fefc2aba876                    /lib/x86_64-linux-gnu/libc.so.6+00288886
+[  1] 0x00007fefc2abaa60                    /lib/x86_64-linux-gnu/libc.so.6+00289376 on_exit+00000000
+[  2] 0x00007fef544a935c              /usr/lib/x86_64-linux-gnu/libX11.so.6+00267100 _XIOError+00000092
+[  3] 0x00007fef544a6a0d              /usr/lib/x86_64-linux-gnu/libX11.so.6+00256525 _XEventsQueued+00000125
+[  4] 0x00007fef54498188              /usr/lib/x86_64-linux-gnu/libX11.so.6+00197000 XEventsQueued+00000088
+[  5] 0x00007fecde7b954d                                   <unknown-module>+00000000
+[  6] 0x00007fecde3abd20                                   <unknown-module>+00000000
+[  7] 0x00007fecde3ac2dd                                   <unknown-module>+00000000
+[  8] 0x00007fecde3ac322                                   <unknown-module>+00000000
+[  9] 0x00007fecde3a47cb                                   <unknown-module>+00000000
+[ 10] 0x00007fed8182739b /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+06849435
+[ 11] 0x00007fed81824c63 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+06839395
+[ 12] 0x00007fed81825227 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+06840871
+[ 13] 0x00007fed8189139c /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+07283612
+[ 14] 0x00007fed81c1a9eb /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+10992107
+[ 15] 0x00007fed81c1acf1 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+10992881
+[ 16] 0x00007fed81aac8c2 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+09492674
+[ 17] 0x00007fefc3209609              /lib/x86_64-linux-gnu/libpthread.so.0+00034313
+[ 18] 0x00007fefc2b93133                    /lib/x86_64-linux-gnu/libc.so.6+01175859 clone+00000067
+
+** This crash report has been saved to disk as /u/s/y/syan58/matlab_crash_dump.2478013-1 **
+
+
+
+MATLAB is exiting because of fatal error
+environment: line 1: 2478013 Killed                  matlab -nodesktop -nosplash -r "filename='$P';run_Betzel;quit;" > /storage08/shuchen/output/$outfile.txt
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon4-r_subject0-num_subjects8/0/
+settingSSoS_r_time0-time_horizon4-r_subject0-num_subjects8_0
+Finished
+Nativewindow X11 IOError: Display 0x7fa504ea0590 (localhost:12.0): Resource temporarily unavailable
+Nativewindow X11 IOError: Display 0x7fa504ea0590 (localhost:12.0): Resource temporarily unavailable
+MATLAB: javainit.cpp:1409: void {anonymous}::mwJavaAbort(): Assertion `Fatal Java Exception. See this file for details: /u/s/y/syan58/hs_error_pid53253.log' failed.
+
+--------------------------------------------------------------------------------
+                Assertion detected at 2022-12-02 17:21:14 -0600
+--------------------------------------------------------------------------------
+
+Configuration:
+  Crash Decoding           : Disabled - No sandbox or build area path
+  Crash Mode               : continue (default)
+  Default Encoding         : UTF-8
+  Deployed                 : false
+  GNU C Library            : 2.31 stable
+  Graphics Driver          : Brian Paul Mesa X11 Version 2.1 Mesa 17.1.3
+  Graphics Text Issue Info : xmin=-16.500000, ymin=-6.375000, xmax=0.000000, ymax=6.375000
+  Graphics card 1          : 0x1a03 ( 0x1a03 ) 0x2000 Version 0.0.0.0 (0-0-0)
+  Java Version             : Java 1.8.0_202-b08 with Oracle Corporation Java HotSpot(TM) 64-Bit Server VM mixed mode
+  MATLAB Architecture      : glnxa64
+  MATLAB Entitlement ID    : 1263506
+  MATLAB Root              : /afs/cs.wisc.edu/s/matlab-2021b
+  MATLAB Version           : 9.11.0.1837725 (R2021b) Update 2
+  OpenGL                   : software
+  Operating System         : Ubuntu 20.04.5 LTS
+  Process ID               : 2478085
+  Processor ID             : x86 Family 6 Model 79 Stepping 1, GenuineIntel
+  Session Key              : b2c3fdca-8fa9-4d13-9ec0-a4b702857d84
+  Static TLS mitigation    : Enabled: Full
+  Window System            : Moba/X (12101003), display localhost:12.0
+
+Fault Count: 1
+
+
+Additional Log Files:
+  Java Crash Report        : /u/s/y/syan58/hs_error_pid53253.log
+  Java Log                 : /u/s/y/syan58/java.log.53253
+
+
+Assertion in void {anonymous}::mwJavaAbort() at javainit.cpp line 1409:
+Fatal Java Exception. See this file for details: /u/s/y/syan58/hs_error_pid53253.log
+
+Current Thread: 'MCR 0 interpret' id 140348942681856
+
+Register State (captured):
+  RAX = 0000000000000000  RBX = 00007fa881b13b88
+  RCX = 000000000000000a  RDX = 00007fa588df6e50
+  RSP = 00007fa588df6620  RBP = 00007fa588df6a00
+  RSI = 00007fa881adb52a  RDI = 00007fa588df6630
+
+   R8 = 00007fa588df6929   R9 = 00007fa588df6929
+  R10 = 00007fa588df6929  R11 = 00007fa588df6929
+  R12 = 00007fa881b03b08  R13 = 00007fa6ac8659e4
+  R14 = 00007fa6ac86e2a0  R15 = 00007fa588df72f0
+
+  RIP = 00007fa881a7ab3e  EFL = 00007fa59d13a348
+
+   CS = 6000   FS = 04ef   GS = 7fa5
+
+Stack Trace (captured):
+[  0] 0x00007fa881a6fc03 /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libmwfl.so+00388099
+[  1] 0x00007fa881a6fdfc /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libmwfl.so+00388604 _ZN10foundation4core4diag15stacktrace_base7captureEm+00000028
+[  2] 0x00007fa881a73f45 /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libmwfl.so+00405317
+[  3] 0x00007fa881a74080 /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libmwfl.so+00405632
+[  4] 0x00007fa6ac7ff34f /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/matlab_startup_plugins/jmi/../../../../bin/glnxa64/libmwjmi.so+01487695
+[  5] 0x00007fa641d2c700 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+09496320
+[  6] 0x00007fa641ae373b /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+07100219
+[  7] 0x00007fa4b729fc42 /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libnativewindow_x11.so+00011330 NativewindowCommon_FatalError+00000268
+[  8] 0x00007fa4b72a0988 /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libnativewindow_x11.so+00014728
+[  9] 0x00007fa854081352              /usr/lib/x86_64-linux-gnu/libX11.so.6+00267090 _XIOError+00000082
+[ 10] 0x00007fa85407ea0d              /usr/lib/x86_64-linux-gnu/libX11.so.6+00256525 _XEventsQueued+00000125
+[ 11] 0x00007fa854070188              /usr/lib/x86_64-linux-gnu/libX11.so.6+00197000 XEventsQueued+00000088
+[ 12] 0x00007fa59ea2eb4d                                   <unknown-module>+00000000
+[ 13] 0x00007fa59e5abd20                                   <unknown-module>+00000000
+[ 14] 0x00007fa59e5ac2dd                                   <unknown-module>+00000000
+[ 15] 0x00007fa59e5ac322                                   <unknown-module>+00000000
+[ 16] 0x00007fa59e5a47cb                                   <unknown-module>+00000000
+[ 17] 0x00007fa641aa639b /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+06849435
+[ 18] 0x00007fa641aa3c63 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+06839395
+[ 19] 0x00007fa641aa4227 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+06840871
+[ 20] 0x00007fa641b1039c /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+07283612
+[ 21] 0x00007fa641e999eb /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+10992107
+[ 22] 0x00007fa641e99cf1 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+10992881
+[ 23] 0x00007fa641d2b8c2 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+09492674
+[ 24] 0x00007fa8834a2609              /lib/x86_64-linux-gnu/libpthread.so.0+00034313
+[ 25] 0x00007fa882e2c133                    /lib/x86_64-linux-gnu/libc.so.6+01175859 clone+00000067
+
+** This crash report has been saved to disk as /u/s/y/syan58/matlab_crash_dump.2478085-1 **
+
+
+
+MATLAB is exiting because of fatal error
+environment: line 1: 2478085 Killed                  matlab -nodesktop -nosplash -r "filename='$P';run_Betzel;quit;" > /storage08/shuchen/output/$outfile.txt
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time2-time_horizon8-r_subject0-num_subjects8/0/
+settingSSoS_r_time2-time_horizon8-r_subject0-num_subjects8_0
+Finished
+malloc(): unsorted double linked list corrupted
+
+--------------------------------------------------------------------------------
+          Segmentation violation detected at 2022-12-02 17:21:14 -0600
+--------------------------------------------------------------------------------
+
+Configuration:
+  Crash Decoding           : Disabled - No sandbox or build area path
+  Crash Mode               : continue (default)
+  Default Encoding         : UTF-8
+  Deployed                 : false
+  GNU C Library            : 2.31 stable
+  Graphics Driver          : Unknown software 
+  Graphics card 1          : 0x1a03 ( 0x1a03 ) 0x2000 Version 0.0.0.0 (0-0-0)
+  Java Version             : Java 1.8.0_202-b08 with Oracle Corporation Java HotSpot(TM) 64-Bit Server VM mixed mode
+  MATLAB Architecture      : glnxa64
+  MATLAB Entitlement ID    : 1263506
+  MATLAB Root              : /afs/cs.wisc.edu/s/matlab-2021b
+  MATLAB Version           : 9.11.0.1837725 (R2021b) Update 2
+  OpenGL                   : software
+  Operating System         : Ubuntu 20.04.5 LTS
+  Process ID               : 2478061
+  Processor ID             : x86 Family 6 Model 79 Stepping 1, GenuineIntel
+  Session Key              : 57733fed-464b-443b-add0-ceac92cae2fa
+  Static TLS mitigation    : Enabled: Full
+  Window System            : Moba/X (12101003), display localhost:12.0
+
+Fault Count: 1
+
+
+Abnormal termination:
+Segmentation violation
+
+Current Thread: 'MCR 0 interpret' id 140385571542784
+
+Register State (from fault):
+  RAX = 00107553b1eb97a0  RBX = 00007fb10dce7718
+  RCX = 0000000000001081  RDX = 0000000000000001
+  RSP = 00007fae101f8680  RBP = 0000000000000001
+  RSI = 0000000000000001  RDI = 00007fad1d610960
+
+   R8 = 0000000000000005   R9 = 00007fad33efb88f
+  R10 = 00007fad99318760  R11 = 00007fb10df95310
+  R12 = 0000000000000000  R13 = 000000000000513d
+  R14 = 00007fb10dcec2e8  R15 = 00007fad33f485c0
+
+  RIP = 00007fb10db41876  EFL = 0000000000010206
+
+   CS = 0033   FS = 0000   GS = 0000
+
+Stack Trace (from fault):
+[  0] 0x00007fb10db41876                    /lib/x86_64-linux-gnu/libc.so.6+00288886
+[  1] 0x00007fb10db41a60                    /lib/x86_64-linux-gnu/libc.so.6+00289376 on_exit+00000000
+[  2] 0x00007fb0f80b935c              /usr/lib/x86_64-linux-gnu/libX11.so.6+00267100 _XIOError+00000092
+[  3] 0x00007fb0f80b6a0d              /usr/lib/x86_64-linux-gnu/libX11.so.6+00256525 _XEventsQueued+00000125
+[  4] 0x00007fb0f80a8188              /usr/lib/x86_64-linux-gnu/libX11.so.6+00197000 XEventsQueued+00000088
+[  5] 0x00007fae29470e4d                                   <unknown-module>+00000000
+[  6] 0x00007fae290a7d20                                   <unknown-module>+00000000
+[  7] 0x00007fae290a82dd                                   <unknown-module>+00000000
+[  8] 0x00007fae290a8322                                   <unknown-module>+00000000
+[  9] 0x00007fae290a07cb                                   <unknown-module>+00000000
+[ 10] 0x00007faed48cb39b /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+06849435
+[ 11] 0x00007faed48c8c63 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+06839395
+[ 12] 0x00007faed48c9227 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+06840871
+[ 13] 0x00007faed493539c /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+07283612
+[ 14] 0x00007faed4cbe9eb /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+10992107
+[ 15] 0x00007faed4cbecf1 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+10992881
+[ 16] 0x00007faed4b508c2 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+09492674
+[ 17] 0x00007fb10e290609              /lib/x86_64-linux-gnu/libpthread.so.0+00034313
+[ 18] 0x00007fb10dc1a133                    /lib/x86_64-linux-gnu/libc.so.6+01175859 clone+00000067
+
+** This crash report has been saved to disk as /u/s/y/syan58/matlab_crash_dump.2478061-1 **
+
+
+
+MATLAB is exiting because of fatal error
+environment: line 1: 2478061 Killed                  matlab -nodesktop -nosplash -r "filename='$P';run_Betzel;quit;" > /storage08/shuchen/output/$outfile.txt
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon8-r_subject2-num_subjects8/0/
+settingSSoS_r_time0-time_horizon8-r_subject2-num_subjects8_0
+Finished
+malloc(): unsorted double linked list corrupted
+
+--------------------------------------------------------------------------------
+          Segmentation violation detected at 2022-12-02 17:21:14 -0600
+--------------------------------------------------------------------------------
+
+Configuration:
+  Crash Decoding           : Disabled - No sandbox or build area path
+  Crash Mode               : continue (default)
+  Default Encoding         : UTF-8
+  Deployed                 : false
+  GNU C Library            : 2.31 stable
+  Graphics Driver          : Unknown software 
+  Graphics card 1          : 0x1a03 ( 0x1a03 ) 0x2000 Version 0.0.0.0 (0-0-0)
+  Java Version             : Java 1.8.0_202-b08 with Oracle Corporation Java HotSpot(TM) 64-Bit Server VM mixed mode
+  MATLAB Architecture      : glnxa64
+  MATLAB Entitlement ID    : 1263506
+  MATLAB Root              : /afs/cs.wisc.edu/s/matlab-2021b
+  MATLAB Version           : 9.11.0.1837725 (R2021b) Update 2
+  OpenGL                   : software
+  Operating System         : Ubuntu 20.04.5 LTS
+  Process ID               : 2478323
+  Processor ID             : x86 Family 6 Model 79 Stepping 1, GenuineIntel
+  Session Key              : 97367b17-29b1-437a-a74f-4ea62e925a1c
+  Static TLS mitigation    : Enabled: Full
+  Window System            : Moba/X (12101003), display localhost:12.0
+
+Fault Count: 1
+
+
+Abnormal termination:
+Segmentation violation
+
+Current Thread: 'MCR 0 interpret' id 140347573659392
+
+Register State (from fault):
+  RAX = 0010742fd83e50e0  RBX = 00007fa835837718
+  RCX = 0000000000001081  RDX = 0000000000000001
+  RSP = 00007fa53745d680  RBP = 0000000000000001
+  RSI = 0000000000000001  RDI = 00007fa4450ca960
+
+   R8 = 0000000000000005   R9 = 00007fa45be2e16f
+  R10 = 00007fa4b94366d0  R11 = 00007fa835ae5310
+  R12 = 0000000000000000  R13 = 000000000000513d
+  R14 = 00007fa83583c2e8  R15 = 00007fa45be22300
+
+  RIP = 00007fa835691876  EFL = 0000000000010202
+
+   CS = 0033   FS = 0000   GS = 0000
+
+Stack Trace (from fault):
+[  0] 0x00007fa835691876                    /lib/x86_64-linux-gnu/libc.so.6+00288886
+[  1] 0x00007fa835691a60                    /lib/x86_64-linux-gnu/libc.so.6+00289376 on_exit+00000000
+[  2] 0x00007fa7d41f335c              /usr/lib/x86_64-linux-gnu/libX11.so.6+00267100 _XIOError+00000092
+[  3] 0x00007fa7d41f0a0d              /usr/lib/x86_64-linux-gnu/libX11.so.6+00256525 _XEventsQueued+00000125
+[  4] 0x00007fa7d41e2188              /usr/lib/x86_64-linux-gnu/libX11.so.6+00197000 XEventsQueued+00000088
+[  5] 0x00007fa5514bf00d                                   <unknown-module>+00000000
+[  6] 0x00007fa550da7d20                                   <unknown-module>+00000000
+[  7] 0x00007fa550da82dd                                   <unknown-module>+00000000
+[  8] 0x00007fa550da8322                                   <unknown-module>+00000000
+[  9] 0x00007fa550da07cb                                   <unknown-module>+00000000
+[ 10] 0x00007fa5ef69f39b /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+06849435
+[ 11] 0x00007fa5ef69cc63 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+06839395
+[ 12] 0x00007fa5ef69d227 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+06840871
+[ 13] 0x00007fa5ef70939c /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+07283612
+[ 14] 0x00007fa5efa929eb /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+10992107
+[ 15] 0x00007fa5efa92cf1 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+10992881
+[ 16] 0x00007fa5ef9248c2 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+09492674
+[ 17] 0x00007fa835de0609              /lib/x86_64-linux-gnu/libpthread.so.0+00034313
+[ 18] 0x00007fa83576a133                    /lib/x86_64-linux-gnu/libc.so.6+01175859 clone+00000067
+
+** This crash report has been saved to disk as /u/s/y/syan58/matlab_crash_dump.2478323-1 **
+
+
+
+MATLAB is exiting because of fatal error
+environment: line 1: 2478323 Killed                  matlab -nodesktop -nosplash -r "filename='$P';run_Betzel;quit;" > /storage08/shuchen/output/$outfile.txt
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time5-time_horizon8-r_subject2-num_subjects8/0/
+settingSSoS_r_time5-time_horizon8-r_subject2-num_subjects8_0
+Finished
+corrupted double-linked list
+
+--------------------------------------------------------------------------------
+                 abort() detected at 2022-12-02 17:21:14 -0600
+--------------------------------------------------------------------------------
+
+Configuration:
+  Crash Decoding           : Disabled - No sandbox or build area path
+  Crash Mode               : continue (default)
+  Default Encoding         : UTF-8
+  Deployed                 : false
+  GNU C Library            : 2.31 stable
+  Graphics Driver          : Unknown software 
+  Graphics card 1          : 0x1a03 ( 0x1a03 ) 0x2000 Version 0.0.0.0 (0-0-0)
+  Java Version             : Java 1.8.0_202-b08 with Oracle Corporation Java HotSpot(TM) 64-Bit Server VM mixed mode
+  MATLAB Architecture      : glnxa64
+  MATLAB Entitlement ID    : 1263506
+  MATLAB Root              : /afs/cs.wisc.edu/s/matlab-2021b
+  MATLAB Version           : 9.11.0.1837725 (R2021b) Update 2
+  OpenGL                   : software
+  Operating System         : Ubuntu 20.04.5 LTS
+  Process ID               : 2478131
+  Processor ID             : x86 Family 6 Model 79 Stepping 1, GenuineIntel
+  Session Key              : f7bb7645-25df-42d0-8b68-61aaefa6d74c
+  Static TLS mitigation    : Enabled: Full
+  Window System            : Moba/X (12101003), display localhost:12.0
+
+Fault Count: 1
+
+
+Abnormal termination:
+abort()
+
+Current Thread: 'MCR 0 interpret' id 139931521111808
+
+Register State (from fault):
+  RAX = 0000000000000000  RBX = 00007f44589bd700
+  RCX = 00007f475a9c900b  RDX = 0000000000000000
+  RSP = 00007f44589bc280  RBP = 00007f44589bc5d0
+  RSI = 00007f44589bc280  RDI = 0000000000000002
+
+   R8 = 0000000000000000   R9 = 00007f44589bc280
+  R10 = 0000000000000008  R11 = 0000000000000246
+  R12 = 00007f44589bc4f0  R13 = 0000000000000010
+  R14 = 00007f445883c000  R15 = 0000000000000001
+
+  RIP = 00007f475a9c900b  EFL = 0000000000000246
+
+   CS = 0033   FS = 0000   GS = 0000
+
+Stack Trace (from fault):
+[  0] 0x00007f475a9c900b                    /lib/x86_64-linux-gnu/libc.so.6+00274443 gsignal+00000203
+[  1] 0x00007f475a9a8859                    /lib/x86_64-linux-gnu/libc.so.6+00141401 abort+00000299
+[  2] 0x00007f475aa1326e                    /lib/x86_64-linux-gnu/libc.so.6+00578158
+[  3] 0x00007f475aa1b2fc                    /lib/x86_64-linux-gnu/libc.so.6+00611068
+[  4] 0x00007f475aa1b94c                    /lib/x86_64-linux-gnu/libc.so.6+00612684
+[  5] 0x00007f475aa1ce8b                    /lib/x86_64-linux-gnu/libc.so.6+00618123
+[  6] 0x00007f475a9cc953                    /lib/x86_64-linux-gnu/libc.so.6+00289107
+[  7] 0x00007f475a9cca60                    /lib/x86_64-linux-gnu/libc.so.6+00289376 on_exit+00000000
+[  8] 0x00007f46ec44735c              /usr/lib/x86_64-linux-gnu/libX11.so.6+00267100 _XIOError+00000092
+[  9] 0x00007f46ec444a0d              /usr/lib/x86_64-linux-gnu/libX11.so.6+00256525 _XEventsQueued+00000125
+[ 10] 0x00007f46ec436188              /usr/lib/x86_64-linux-gnu/libX11.so.6+00197000 XEventsQueued+00000088
+[ 11] 0x00007f4471473f95                                   <unknown-module>+00000000
+[ 12] 0x00007f4471007d20                                   <unknown-module>+00000000
+[ 13] 0x00007f44710082dd                                   <unknown-module>+00000000
+[ 14] 0x00007f4471008322                                   <unknown-module>+00000000
+[ 15] 0x00007f44710007cb                                   <unknown-module>+00000000
+[ 16] 0x00007f451975239b /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+06849435
+[ 17] 0x00007f451974fc63 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+06839395
+[ 18] 0x00007f4519750227 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+06840871
+[ 19] 0x00007f45197bc39c /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+07283612
+[ 20] 0x00007f4519b459eb /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+10992107
+[ 21] 0x00007f4519b45cf1 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+10992881
+[ 22] 0x00007f45199d78c2 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+09492674
+[ 23] 0x00007f475b11b609              /lib/x86_64-linux-gnu/libpthread.so.0+00034313
+[ 24] 0x00007f475aaa5133                    /lib/x86_64-linux-gnu/libc.so.6+01175859 clone+00000067
+
+** This crash report has been saved to disk as /u/s/y/syan58/matlab_crash_dump.2478131-1 **
+
+
+
+MATLAB is exiting because of fatal error
+environment: line 1: 2478131 Killed                  matlab -nodesktop -nosplash -r "filename='$P';run_Betzel;quit;" > /storage08/shuchen/output/$outfile.txt
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time2-time_horizon8-r_subject5-num_subjects8/0/
+settingSSoS_r_time2-time_horizon8-r_subject5-num_subjects8_0
+Finished
+Nativewindow X11 IOError: Display 0x7f44d0abde60 (localhost:12.0): Resource temporarily unavailable
+Nativewindow X11 IOError: Display 0x7f44d0abde60 (localhost:12.0): Resource temporarily unavailable
+MATLAB: javainit.cpp:1409: void {anonymous}::mwJavaAbort(): Assertion `Fatal Java Exception. See this file for details: /u/s/y/syan58/hs_error_pid53129.log' failed.
+
+--------------------------------------------------------------------------------
+                Assertion detected at 2022-12-02 17:21:14 -0600
+--------------------------------------------------------------------------------
+
+Configuration:
+  Crash Decoding           : Disabled - No sandbox or build area path
+  Crash Mode               : continue (default)
+  Default Encoding         : UTF-8
+  Deployed                 : false
+  GNU C Library            : 2.31 stable
+  Graphics Driver          : Brian Paul Mesa X11 Version 2.1 Mesa 17.1.3
+  Graphics Text Issue Info : xmin=-16.500000, ymin=-6.375000, xmax=0.000000, ymax=6.375000
+  Graphics card 1          : 0x1a03 ( 0x1a03 ) 0x2000 Version 0.0.0.0 (0-0-0)
+  Java Version             : Java 1.8.0_202-b08 with Oracle Corporation Java HotSpot(TM) 64-Bit Server VM mixed mode
+  MATLAB Architecture      : glnxa64
+  MATLAB Entitlement ID    : 1263506
+  MATLAB Root              : /afs/cs.wisc.edu/s/matlab-2021b
+  MATLAB Version           : 9.11.0.1837725 (R2021b) Update 2
+  OpenGL                   : software
+  Operating System         : Ubuntu 20.04.5 LTS
+  Process ID               : 2477961
+  Processor ID             : x86 Family 6 Model 79 Stepping 1, GenuineIntel
+  Session Key              : 68b1b8c4-9f12-4589-bcd2-84e46faf40c6
+  Static TLS mitigation    : Enabled: Full
+  Window System            : Moba/X (12101003), display localhost:12.0
+
+Fault Count: 1
+
+
+Additional Log Files:
+  Java Crash Report        : /u/s/y/syan58/hs_error_pid53129.log
+  Java Log                 : /u/s/y/syan58/java.log.53129
+
+
+Assertion in void {anonymous}::mwJavaAbort() at javainit.cpp line 1409:
+Fatal Java Exception. See this file for details: /u/s/y/syan58/hs_error_pid53129.log
+
+Current Thread: 'MCR 0 interpret' id 139935761020672
+
+Register State (captured):
+  RAX = 00007f45c009f570  RBX = 00007f484b170b88
+  RCX = 000000000000000a  RDX = 00007f4555539e50
+  RSP = 00007f4555539620  RBP = 00007f4555539a00
+  RSI = 00007f484b13852a  RDI = 00007f4555539630
+
+   R8 = 00007f4555539929   R9 = 00007f4555539929
+  R10 = 00007f4555539929  R11 = 00007f4555539929
+  R12 = 00007f484b160b08  R13 = 00007f4661dd89e4
+  R14 = 00007f4661de12a0  R15 = 00007f455553a2f0
+
+  RIP = 00007f484b0d7b3e  EFL = 00007f45579e23b8
+
+   CS = 57f5   FS = 06fb   GS = 7f46
+
+Stack Trace (captured):
+[  0] 0x00007f484b0ccc03 /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libmwfl.so+00388099
+[  1] 0x00007f484b0ccdfc /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libmwfl.so+00388604 _ZN10foundation4core4diag15stacktrace_base7captureEm+00000028
+[  2] 0x00007f484b0d0f45 /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libmwfl.so+00405317
+[  3] 0x00007f484b0d1080 /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libmwfl.so+00405632
+[  4] 0x00007f4661d7234f /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/matlab_startup_plugins/jmi/../../../../bin/glnxa64/libmwjmi.so+01487695
+[  5] 0x00007f4607284700 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+09496320
+[  6] 0x00007f460703b73b /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+07100219
+[  7] 0x00007f4457bf7c42 /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libnativewindow_x11.so+00011330 NativewindowCommon_FatalError+00000268
+[  8] 0x00007f4457bf8988 /afs/cs.wisc.edu/s/matlab-2021b/bin/glnxa64/libnativewindow_x11.so+00014728
+[  9] 0x00007f48300b9352              /usr/lib/x86_64-linux-gnu/libX11.so.6+00267090 _XIOError+00000082
+[ 10] 0x00007f48300b6a0d              /usr/lib/x86_64-linux-gnu/libX11.so.6+00256525 _XEventsQueued+00000125
+[ 11] 0x00007f48300a8188              /usr/lib/x86_64-linux-gnu/libX11.so.6+00197000 XEventsQueued+00000088
+[ 12] 0x00007f45681e514d                                   <unknown-module>+00000000
+[ 13] 0x00007f4567da7d20                                   <unknown-module>+00000000
+[ 14] 0x00007f4567da82dd                                   <unknown-module>+00000000
+[ 15] 0x00007f4567da8322                                   <unknown-module>+00000000
+[ 16] 0x00007f4567da07cb                                   <unknown-module>+00000000
+[ 17] 0x00007f4606ffe39b /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+06849435
+[ 18] 0x00007f4606ffbc63 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+06839395
+[ 19] 0x00007f4606ffc227 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+06840871
+[ 20] 0x00007f460706839c /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+07283612
+[ 21] 0x00007f46073f19eb /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+10992107
+[ 22] 0x00007f46073f1cf1 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+10992881
+[ 23] 0x00007f46072838c2 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+09492674
+[ 24] 0x00007f484caff609              /lib/x86_64-linux-gnu/libpthread.so.0+00034313
+[ 25] 0x00007f484c489133                    /lib/x86_64-linux-gnu/libc.so.6+01175859 clone+00000067
+
+** This crash report has been saved to disk as /u/s/y/syan58/matlab_crash_dump.2477961-1 **
+
+
+
+MATLAB is exiting because of fatal error
+environment: line 1: 2477961 Killed                  matlab -nodesktop -nosplash -r "filename='$P';run_Betzel;quit;" > /storage08/shuchen/output/$outfile.txt
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon8-r_subject0-num_subjects8/0/
+settingSSoS_r_time0-time_horizon8-r_subject0-num_subjects8_0
+Finished
+malloc(): unsorted double linked list corrupted
+
+--------------------------------------------------------------------------------
+          Segmentation violation detected at 2022-12-02 17:21:14 -0600
+--------------------------------------------------------------------------------
+
+Configuration:
+  Crash Decoding           : Disabled - No sandbox or build area path
+  Crash Mode               : continue (default)
+  Default Encoding         : UTF-8
+  Deployed                 : false
+  GNU C Library            : 2.31 stable
+  Graphics Driver          : Unknown software 
+  Graphics card 1          : 0x1a03 ( 0x1a03 ) 0x2000 Version 0.0.0.0 (0-0-0)
+  Java Version             : Java 1.8.0_202-b08 with Oracle Corporation Java HotSpot(TM) 64-Bit Server VM mixed mode
+  MATLAB Architecture      : glnxa64
+  MATLAB Entitlement ID    : 1263506
+  MATLAB Root              : /afs/cs.wisc.edu/s/matlab-2021b
+  MATLAB Version           : 9.11.0.1837725 (R2021b) Update 2
+  OpenGL                   : software
+  Operating System         : Ubuntu 20.04.5 LTS
+  Process ID               : 2478183
+  Processor ID             : x86 Family 6 Model 79 Stepping 1, GenuineIntel
+  Session Key              : 8b2c3609-6ea6-442d-ba0f-93833b048d05
+  Static TLS mitigation    : Enabled: Full
+  Window System            : Moba/X (12101003), display localhost:12.0
+
+Fault Count: 1
+
+
+Abnormal termination:
+Segmentation violation
+
+Current Thread: 'MCR 0 interpret' id 140184619513600
+
+Register State (from fault):
+  RAX = 00106f49a3398f70  RBX = 00007f82384e4718
+  RCX = 0000000000001081  RDX = 0000000000000001
+  RSP = 00007f7f4672e680  RBP = 0000000000000001
+  RSI = 0000000000000001  RDI = 00007f7e43794960
+
+   R8 = 0000000000000005   R9 = 00007f7e5bd9165f
+  R10 = 00007f7ebd43a060  R11 = 00007f8238792310
+  R12 = 0000000000000000  R13 = 000000000000513d
+  R14 = 00007f82384e92e8  R15 = 00007f7e2816c390
+
+  RIP = 00007f823833e876  EFL = 0000000000010202
+
+   CS = 0033   FS = 0000   GS = 0000
+
+Stack Trace (from fault):
+[  0] 0x00007f823833e876                    /lib/x86_64-linux-gnu/libc.so.6+00288886
+[  1] 0x00007f823833ea60                    /lib/x86_64-linux-gnu/libc.so.6+00289376 on_exit+00000000
+[  2] 0x00007f821c0b935c              /usr/lib/x86_64-linux-gnu/libX11.so.6+00267100 _XIOError+00000092
+[  3] 0x00007f821c0b6a0d              /usr/lib/x86_64-linux-gnu/libX11.so.6+00256525 _XEventsQueued+00000125
+[  4] 0x00007f821c0a8188              /usr/lib/x86_64-linux-gnu/libX11.so.6+00197000 XEventsQueued+00000088
+[  5] 0x00007f7f4d53238d                                   <unknown-module>+00000000
+[  6] 0x00007f7f4d007d20                                   <unknown-module>+00000000
+[  7] 0x00007f7f4d0082dd                                   <unknown-module>+00000000
+[  8] 0x00007f7f4d008322                                   <unknown-module>+00000000
+[  9] 0x00007f7f4d0007cb                                   <unknown-module>+00000000
+[ 10] 0x00007f7ff2ffe39b /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+06849435
+[ 11] 0x00007f7ff2ffbc63 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+06839395
+[ 12] 0x00007f7ff2ffc227 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+06840871
+[ 13] 0x00007f7ff306839c /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+07283612
+[ 14] 0x00007f7ff33f19eb /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+10992107
+[ 15] 0x00007f7ff33f1cf1 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+10992881
+[ 16] 0x00007f7ff32838c2 /afs/cs.wisc.edu/s/matlab-2021b/sys/java/jre/glnxa64/jre/lib/amd64/server/libjvm.so+09492674
+[ 17] 0x00007f8238a8d609              /lib/x86_64-linux-gnu/libpthread.so.0+00034313
+[ 18] 0x00007f8238417133                    /lib/x86_64-linux-gnu/libc.so.6+01175859 clone+00000067
+
+** This crash report has been saved to disk as /u/s/y/syan58/matlab_crash_dump.2478183-1 **
+
+
+
+MATLAB is exiting because of fatal error
+environment: line 1: 2478183 Killed                  matlab -nodesktop -nosplash -r "filename='$P';run_Betzel;quit;" > /storage08/shuchen/output/$outfile.txt
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/0/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8_0
+Finished
+Nativewindow X11 IOError: Display 0x7fb18855ec60 (localhost:12.0): Resource temporarily unavailable
+Nativewindow X11 IOError: Display 0x7fb2709f1aa0 (localhost:12.0): Resource temporarily unavailable
+Nativewindow X11 IOError: Display 0x7fb2709f1aa0 (localhost:12.0): Resource temporarily unavailable
+Nativewindow X11 IOError: Display 0x7fb18855ec60 (localhost:12.0): Resource temporarily unavailable
+MATLAB: javainit.cpp:1409: void {anonymous}::mwJavaAbort(): Assertion `Fatal Java Exception. See this file for details: /u/s/y/syan58/hs_error_pid53191.log' failed.
+MATLAB: javainit.cpp:1409: void {anonymous}::mwJavaAbort(): Assertion `Fatal Java Exception. See this file for details: /u/s/y/syan58/hs_error_pid53191.log' failed.
+environment: line 1: 2478023 Aborted                 (core dumped) matlab -nodesktop -nosplash -r "filename='$P';run_Betzel;quit;" > /storage08/shuchen/output/$outfile.txt
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject5-num_subjects8/0/
+settingSSoS_r_time0-time_horizon2-r_subject5-num_subjects8_0
+Finished
+Nativewindow X11 IOError: Display 0x7f9de403aee0 (localhost:12.0): Resource temporarily unavailable
+Nativewindow X11 IOError: Display 0x7f9e40e8a2f0 (localhost:12.0): Resource temporarily unavailable
+Nativewindow X11 IOError: Display 0x7f9de403aee0 (localhost:12.0): Resource temporarily unavailable
+Nativewindow X11 IOError: Display 0x7f9e40e8a2f0 (localhost:12.0): Resource temporarily unavailable
+MATLAB: javainit.cpp:1409: void {anonymous}::mwJavaAbort(): Assertion `Fatal Java Exception. See this file for details: /u/s/y/syan58/hs_error_pid53337.log' failed.
+MATLAB: javainit.cpp:1409: void {anonymous}::mwJavaAbort(): Assertion `Fatal Java Exception. See this file for details: /u/s/y/syan58/hs_error_pid53337.log' failed.
+environment: line 1: 2478169 Aborted                 (core dumped) matlab -nodesktop -nosplash -r "filename='$P';run_Betzel;quit;" > /storage08/shuchen/output/$outfile.txt
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time2-time_horizon2-r_subject2-num_subjects8/0/
+settingSSoS_r_time2-time_horizon2-r_subject2-num_subjects8_0
+Finished
+Nativewindow X11 IOError: Display 0x7f476411a650 (localhost:12.0): Resource temporarily unavailable
+Nativewindow X11 IOError: Display 0x7f47b4812500 (localhost:12.0): Resource temporarily unavailable
+Nativewindow X11 IOError: Display 0x7f47b4812500 (localhost:12.0): Resource temporarily unavailable
+Nativewindow X11 IOError: Display 0x7f476411a650 (localhost:12.0): Resource temporarily unavailable
+MATLAB: javainit.cpp:1409: void {anonymous}::mwJavaAbort(): Assertion `Fatal Java Exception. See this file for details: /u/s/y/syan58/hs_error_pid53530.log' failed.
+MATLAB: javainit.cpp:1409: void {anonymous}::mwJavaAbort(): Assertion `Fatal Java Exception. See this file for details: /u/s/y/syan58/hs_error_pid53530.log' failed.
+environment: line 1: 2478362 Aborted                 (core dumped) matlab -nodesktop -nosplash -r "filename='$P';run_Betzel;quit;" > /storage08/shuchen/output/$outfile.txt
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time5-time_horizon2-r_subject0-num_subjects8/0/
+settingSSoS_r_time5-time_horizon2-r_subject0-num_subjects8_0
+Finished
+Nativewindow X11 IOError: Display 0x7f3bb5c4efe0 (localhost:12.0): Resource temporarily unavailable
+Nativewindow X11 IOError: Display 0x7f3c08dd6b20 (localhost:12.0): Resource temporarily unavailable
+Nativewindow X11 IOError: Display 0x7f3c08dd6b20 (localhost:12.0): Resource temporarily unavailable
+Nativewindow X11 IOError: Display 0x7f3bb5c4efe0 (localhost:12.0): Resource temporarily unavailable
+MATLAB: javainit.cpp:1409: void {anonymous}::mwJavaAbort(): Assertion `Fatal Java Exception. See this file for details: /u/s/y/syan58/hs_error_pid53223.log' failed.
+MATLAB: javainit.cpp:1409: void {anonymous}::mwJavaAbort(): Assertion `Fatal Java Exception. See this file for details: /u/s/y/syan58/hs_error_pid53223.log' failed.
+environment: line 1: 2478055 Aborted                 (core dumped) matlab -nodesktop -nosplash -r "filename='$P';run_Betzel;quit;" > /storage08/shuchen/output/$outfile.txt
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time2-time_horizon2-r_subject5-num_subjects8/0/
+settingSSoS_r_time2-time_horizon2-r_subject5-num_subjects8_0
+Finished
+Nativewindow X11 IOError: Display 0x7ef991a7b6a0 (localhost:12.0): Resource temporarily unavailable
+Nativewindow X11 IOError: Display 0x7efa54b2cd10 (localhost:12.0): Resource temporarily unavailable
+Nativewindow X11 IOError: Display 0x7efa54b2cd10 (localhost:12.0): Resource temporarily unavailable
+Nativewindow X11 IOError: Display 0x7ef991a7b6a0 (localhost:12.0): Resource temporarily unavailable
+MATLAB: javainit.cpp:1409: void {anonymous}::mwJavaAbort(): Assertion `Fatal Java Exception. See this file for details: /u/s/y/syan58/hs_error_pid53270.log' failed.
+MATLAB: javainit.cpp:1409: void {anonymous}::mwJavaAbort(): Assertion `Fatal Java Exception. See this file for details: /u/s/y/syan58/hs_error_pid53270.log' failed.
+environment: line 1: 2478102 Aborted                 (core dumped) matlab -nodesktop -nosplash -r "filename='$P';run_Betzel;quit;" > /storage08/shuchen/output/$outfile.txt
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time5-time_horizon2-r_subject5-num_subjects8/0/
+settingSSoS_r_time5-time_horizon2-r_subject5-num_subjects8_0
+Finished
+Nativewindow X11 IOError: Display 0x7f8ca001f700 (localhost:12.0): Resource temporarily unavailable
+Nativewindow X11 IOError: Display 0x7f8d94bf3280 (localhost:12.0): Resource temporarily unavailable
+Nativewindow X11 IOError: Display 0x7f8ca001f700 (localhost:12.0): Resource temporarily unavailable
+Nativewindow X11 IOError: Display 0x7f8d94bf3280 (localhost:12.0): Resource temporarily unavailable
+MATLAB: javainit.cpp:1409: void {anonymous}::mwJavaAbort(): Assertion `Fatal Java Exception. See this file for details: /u/s/y/syan58/hs_error_pid53215.log' failed.
+MATLAB: javainit.cpp:1409: void {anonymous}::mwJavaAbort(): Assertion `Fatal Java Exception. See this file for details: /u/s/y/syan58/hs_error_pid53215.log' failed.
+environment: line 1: 2478047 Aborted                 (core dumped) matlab -nodesktop -nosplash -r "filename='$P';run_Betzel;quit;" > /storage08/shuchen/output/$outfile.txt
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time2-time_horizon2-r_subject0-num_subjects8/0/
+settingSSoS_r_time2-time_horizon2-r_subject0-num_subjects8_0
+Finished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject2-num_subjects8/0/
+settingSSoS_r_time0-time_horizon2-r_subject2-num_subjects8_0
+Finished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject5-num_subjects8/0/
+settingSSoS_r_time0-time_horizon2-r_subject5-num_subjects8_0
+Finished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/0/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8_0
+Finished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time5-time_horizon2-r_subject5-num_subjects8/0/
+settingSSoS_r_time5-time_horizon2-r_subject5-num_subjects8_0
+Finished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time2-time_horizon2-r_subject5-num_subjects8/0/
+settingSSoS_r_time2-time_horizon2-r_subject5-num_subjects8_0
+Finished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time2-time_horizon2-r_subject2-num_subjects8/0/
+settingSSoS_r_time2-time_horizon2-r_subject2-num_subjects8_0
+Finished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time5-time_horizon2-r_subject0-num_subjects8/0/
+settingSSoS_r_time5-time_horizon2-r_subject0-num_subjects8_0
+Finished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon4-r_subject0-num_subjects8/0/
+settingSSoS_r_time0-time_horizon4-r_subject0-num_subjects8_0
+Finished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon4-r_subject2-num_subjects8/0/
+settingSSoS_r_time0-time_horizon4-r_subject2-num_subjects8_0
+Finished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time5-time_horizon4-r_subject2-num_subjects8/0/
+settingSSoS_r_time5-time_horizon4-r_subject2-num_subjects8_0
+Finished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time2-time_horizon4-r_subject0-num_subjects8/0/
+settingSSoS_r_time2-time_horizon4-r_subject0-num_subjects8_0
+Finished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time2-time_horizon4-r_subject5-num_subjects8/0/
+settingSSoS_r_time2-time_horizon4-r_subject5-num_subjects8_0
+Finished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon4-r_subject5-num_subjects8/0/
+settingSSoS_r_time0-time_horizon4-r_subject5-num_subjects8_0
+Finished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time5-time_horizon4-r_subject5-num_subjects8/0/
+settingSSoS_r_time5-time_horizon4-r_subject5-num_subjects8_0
+Finished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon8-r_subject0-num_subjects8/0/
+settingSSoS_r_time0-time_horizon8-r_subject0-num_subjects8_0
+Finished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time2-time_horizon8-r_subject0-num_subjects8/0/
+settingSSoS_r_time2-time_horizon8-r_subject0-num_subjects8_0
+Finished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time5-time_horizon8-r_subject0-num_subjects8/0/
+settingSSoS_r_time5-time_horizon8-r_subject0-num_subjects8_0
+Finished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time5-time_horizon8-r_subject2-num_subjects8/0/
+settingSSoS_r_time5-time_horizon8-r_subject2-num_subjects8_0
+Finished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon8-r_subject2-num_subjects8/0/
+settingSSoS_r_time0-time_horizon8-r_subject2-num_subjects8_0
+Finished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time2-time_horizon8-r_subject5-num_subjects8/0/
+settingSSoS_r_time2-time_horizon8-r_subject5-num_subjects8_0
+Finished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time2-time_horizon8-r_subject2-num_subjects8/0/
+settingSSoS_r_time2-time_horizon8-r_subject2-num_subjects8_0
+Finished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon8-r_subject5-num_subjects8/0/
+settingSSoS_r_time0-time_horizon8-r_subject5-num_subjects8_0
+Finished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time5-time_horizon8-r_subject5-num_subjects8/0/
+settingSSoS_r_time5-time_horizon8-r_subject5-num_subjects8_0
+Finished

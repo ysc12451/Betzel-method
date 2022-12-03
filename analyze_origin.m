@@ -1,5 +1,5 @@
 function [] = analyze_origin(cur_dir, samplesTotal)
-    fprintf("using "+cur_dir+"/"+"adj_mus_dynamic.npy");
+    % fprintf("using "+cur_dir+"/"+"adj_mus_dynamic.npy");
 
     adj = readNPY(cur_dir+"/"+"adj_mus_dynamic.npy");
     z = readNPY(cur_dir+"/"+"z_mus_dynamic.npy");

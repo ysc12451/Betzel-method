@@ -48,8 +48,8 @@ function [] = analyze_origin(cur_dir, samplesTotal)
     end
 
     save(cur_dir+"/"+"z_ori.mat", "zS");
-    save(cur_dir+"/"+"G.mat", "G");
-    save(cur_dir+"/"+"O.mat", "O");
+    save(cur_dir+"/"+"G_ori.mat", "G");
+    save(cur_dir+"/"+"O_ori.mat", "O");
     save(cur_dir+"/"+"aris_ori.mat", "aris");
 
 end

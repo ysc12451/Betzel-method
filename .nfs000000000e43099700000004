@@ -1,0 +1,1633 @@
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/6/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+6
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/24/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+24
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/4/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+4
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/23/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+23
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/10/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+10
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/15/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+15
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/0/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+0
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/19/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+19
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/2/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+2
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/20/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+20
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/12/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+12
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/3/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+3
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/14/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+14
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/18/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+18
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/11/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+11
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/13/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+13
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/17/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+17
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/21/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+21
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/16/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+16
+doitFinished
+java.lang.ExceptionInInitializerError
+	at com.mathworks.mde.editor.plugins.editordataservice.debug.DebuggerInstaller.initializeListeners(DebuggerInstaller.java:78)
+	at com.mathworks.mde.editor.plugins.editordataservice.debug.DebuggerInstaller.<init>(DebuggerInstaller.java:64)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at java.lang.Class.newInstance(Class.java:442)
+	at com.mathworks.services.editordataservice.EditorDataServiceManager.initializeSingletonEditorFeatures(EditorDataServiceManager.java:120)
+	at com.mathworks.services.editordataservice.EditorDataServiceManager.initialize(EditorDataServiceManager.java:95)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl.startEditor(ConnectorImpl.java:564)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl.doStart(ConnectorImpl.java:421)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl$1.lambda$run$0(ConnectorImpl.java:193)
+Caused by: com.mathworks.util.ShutdownRuntimeException: Java is shutting down
+	at com.mathworks.mvm.MvmFactory.nativeGetCurrentMvmHandle(Native Method)
+	at com.mathworks.mvm.MvmFactory.getCurrentMVM(MvmFactory.java:674)
+	at com.mathworks.mlwidgets.stack.StackInfoRegistry.<clinit>(StackInfoRegistry.java:44)
+	... 12 more
+java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.mathworks.matlabserver.connector.impl.ConnectorLifecycleHelperImpl.callConnectorStarted(ConnectorLifecycleHelperImpl.java:108)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl$1.lambda$run$0(ConnectorImpl.java:198)
+Caused by: com.mathworks.util.ShutdownRuntimeException: Java is shutting down
+	at com.mathworks.mvm.MvmFactory.nativeGetCurrentMvmHandle(Native Method)
+	at com.mathworks.mvm.MvmFactory.getCurrentMVM(MvmFactory.java:674)
+	at com.mathworks.mvm.context.MvmContext.get(MvmContext.java:100)
+	at com.mathworks.services.settings.SettingPath.<init>(SettingPath.java:213)
+	at com.mathworks.pathdataservice.PathDataService.getEphemeralRootsSetting(PathDataService.java:288)
+	at com.mathworks.pathdataservice.PathDataService.updateEphemeralRoots(PathDataService.java:325)
+	at com.mathworks.pathdataservice.PathDataService.startService(PathDataService.java:102)
+	at com.mathworks.pathdataservice.PathDataService.start(PathDataService.java:72)
+	at com.mathworks.pathdataservice.PathDataService.startListening(PathDataService.java:66)
+	... 6 more
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/8/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+8
+doitFinished
+java.lang.ExceptionInInitializerError
+	at com.mathworks.mde.editor.plugins.editordataservice.debug.DebuggerInstaller.initializeListeners(DebuggerInstaller.java:78)
+	at com.mathworks.mde.editor.plugins.editordataservice.debug.DebuggerInstaller.<init>(DebuggerInstaller.java:64)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at java.lang.Class.newInstance(Class.java:442)
+	at com.mathworks.services.editordataservice.EditorDataServiceManager.initializeSingletonEditorFeatures(EditorDataServiceManager.java:120)
+	at com.mathworks.services.editordataservice.EditorDataServiceManager.initialize(EditorDataServiceManager.java:95)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl.startEditor(ConnectorImpl.java:564)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl.doStart(ConnectorImpl.java:421)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl$1.lambda$run$0(ConnectorImpl.java:193)
+Caused by: com.mathworks.util.ShutdownRuntimeException: Java is shutting down
+	at com.mathworks.mvm.MvmFactory.nativeGetCurrentMvmHandle(Native Method)
+	at com.mathworks.mvm.MvmFactory.getCurrentMVM(MvmFactory.java:674)
+	at com.mathworks.mlwidgets.stack.StackInfoRegistry.<clinit>(StackInfoRegistry.java:44)
+	... 12 more
+java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.mathworks.matlabserver.connector.impl.ConnectorLifecycleHelperImpl.callConnectorStarted(ConnectorLifecycleHelperImpl.java:108)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl$1.lambda$run$0(ConnectorImpl.java:198)
+Caused by: com.mathworks.util.ShutdownRuntimeException: Java is shutting down
+	at com.mathworks.mvm.MvmFactory.nativeGetCurrentMvmHandle(Native Method)
+	at com.mathworks.mvm.MvmFactory.getCurrentMVM(MvmFactory.java:674)
+	at com.mathworks.mvm.context.MvmContext.get(MvmContext.java:100)
+	at com.mathworks.services.settings.SettingPath.<init>(SettingPath.java:213)
+	at com.mathworks.pathdataservice.PathDataService.getEphemeralRootsSetting(PathDataService.java:288)
+	at com.mathworks.pathdataservice.PathDataService.updateEphemeralRoots(PathDataService.java:325)
+	at com.mathworks.pathdataservice.PathDataService.startService(PathDataService.java:102)
+	at com.mathworks.pathdataservice.PathDataService.start(PathDataService.java:72)
+	at com.mathworks.pathdataservice.PathDataService.startListening(PathDataService.java:66)
+	... 6 more
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/1/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+1
+doitFinished
+java.lang.ExceptionInInitializerError
+	at com.mathworks.mde.editor.plugins.editordataservice.debug.DebuggerInstaller.initializeListeners(DebuggerInstaller.java:78)
+	at com.mathworks.mde.editor.plugins.editordataservice.debug.DebuggerInstaller.<init>(DebuggerInstaller.java:64)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at java.lang.Class.newInstance(Class.java:442)
+	at com.mathworks.services.editordataservice.EditorDataServiceManager.initializeSingletonEditorFeatures(EditorDataServiceManager.java:120)
+	at com.mathworks.services.editordataservice.EditorDataServiceManager.initialize(EditorDataServiceManager.java:95)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl.startEditor(ConnectorImpl.java:564)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl.doStart(ConnectorImpl.java:421)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl$1.lambda$run$0(ConnectorImpl.java:193)
+Caused by: com.mathworks.util.ShutdownRuntimeException: Java is shutting down
+	at com.mathworks.mvm.MvmFactory.nativeGetCurrentMvmHandle(Native Method)
+	at com.mathworks.mvm.MvmFactory.getCurrentMVM(MvmFactory.java:674)
+	at com.mathworks.mlwidgets.stack.StackInfoRegistry.<clinit>(StackInfoRegistry.java:44)
+	... 12 more
+java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.mathworks.matlabserver.connector.impl.ConnectorLifecycleHelperImpl.callConnectorStarted(ConnectorLifecycleHelperImpl.java:108)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl$1.lambda$run$0(ConnectorImpl.java:198)
+Caused by: com.mathworks.util.ShutdownRuntimeException: Java is shutting down
+	at com.mathworks.mvm.MvmFactory.nativeGetCurrentMvmHandle(Native Method)
+	at com.mathworks.mvm.MvmFactory.getCurrentMVM(MvmFactory.java:674)
+	at com.mathworks.mvm.context.MvmContext.get(MvmContext.java:100)
+	at com.mathworks.services.settings.SettingPath.<init>(SettingPath.java:213)
+	at com.mathworks.pathdataservice.PathDataService.getEphemeralRootsSetting(PathDataService.java:288)
+	at com.mathworks.pathdataservice.PathDataService.updateEphemeralRoots(PathDataService.java:325)
+	at com.mathworks.pathdataservice.PathDataService.startService(PathDataService.java:102)
+	at com.mathworks.pathdataservice.PathDataService.start(PathDataService.java:72)
+	at com.mathworks.pathdataservice.PathDataService.startListening(PathDataService.java:66)
+	... 6 more
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/5/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+5
+doitFinished
+java.lang.ExceptionInInitializerError
+	at com.mathworks.mde.editor.plugins.editordataservice.debug.DebuggerInstaller.initializeListeners(DebuggerInstaller.java:78)
+	at com.mathworks.mde.editor.plugins.editordataservice.debug.DebuggerInstaller.<init>(DebuggerInstaller.java:64)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at java.lang.Class.newInstance(Class.java:442)
+	at com.mathworks.services.editordataservice.EditorDataServiceManager.initializeSingletonEditorFeatures(EditorDataServiceManager.java:120)
+	at com.mathworks.services.editordataservice.EditorDataServiceManager.initialize(EditorDataServiceManager.java:95)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl.startEditor(ConnectorImpl.java:564)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl.doStart(ConnectorImpl.java:421)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl$1.lambda$run$0(ConnectorImpl.java:193)
+Caused by: com.mathworks.util.ShutdownRuntimeException: Java is shutting down
+	at com.mathworks.mvm.MvmFactory.nativeGetCurrentMvmHandle(Native Method)
+	at com.mathworks.mvm.MvmFactory.getCurrentMVM(MvmFactory.java:674)
+	at com.mathworks.mlwidgets.stack.StackInfoRegistry.<clinit>(StackInfoRegistry.java:44)
+	... 12 more
+java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.mathworks.matlabserver.connector.impl.ConnectorLifecycleHelperImpl.callConnectorStarted(ConnectorLifecycleHelperImpl.java:108)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl$1.lambda$run$0(ConnectorImpl.java:198)
+Caused by: com.mathworks.util.ShutdownRuntimeException: Java is shutting down
+	at com.mathworks.mvm.MvmFactory.nativeGetCurrentMvmHandle(Native Method)
+	at com.mathworks.mvm.MvmFactory.getCurrentMVM(MvmFactory.java:674)
+	at com.mathworks.mvm.context.MvmContext.get(MvmContext.java:100)
+	at com.mathworks.services.settings.SettingPath.<init>(SettingPath.java:213)
+	at com.mathworks.pathdataservice.PathDataService.getEphemeralRootsSetting(PathDataService.java:288)
+	at com.mathworks.pathdataservice.PathDataService.updateEphemeralRoots(PathDataService.java:325)
+	at com.mathworks.pathdataservice.PathDataService.startService(PathDataService.java:102)
+	at com.mathworks.pathdataservice.PathDataService.start(PathDataService.java:72)
+	at com.mathworks.pathdataservice.PathDataService.startListening(PathDataService.java:66)
+	... 6 more
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/22/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+22
+doitFinished
+java.lang.ExceptionInInitializerError
+	at com.mathworks.mde.editor.plugins.editordataservice.debug.DebuggerInstaller.initializeListeners(DebuggerInstaller.java:78)
+	at com.mathworks.mde.editor.plugins.editordataservice.debug.DebuggerInstaller.<init>(DebuggerInstaller.java:64)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at java.lang.Class.newInstance(Class.java:442)
+	at com.mathworks.services.editordataservice.EditorDataServiceManager.initializeSingletonEditorFeatures(EditorDataServiceManager.java:120)
+	at com.mathworks.services.editordataservice.EditorDataServiceManager.initialize(EditorDataServiceManager.java:95)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl.startEditor(ConnectorImpl.java:564)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl.doStart(ConnectorImpl.java:421)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl$1.lambda$run$0(ConnectorImpl.java:193)
+Caused by: com.mathworks.util.ShutdownRuntimeException: Java is shutting down
+	at com.mathworks.mvm.MvmFactory.nativeGetCurrentMvmHandle(Native Method)
+	at com.mathworks.mvm.MvmFactory.getCurrentMVM(MvmFactory.java:674)
+	at com.mathworks.mlwidgets.stack.StackInfoRegistry.<clinit>(StackInfoRegistry.java:44)
+	... 12 more
+java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.mathworks.matlabserver.connector.impl.ConnectorLifecycleHelperImpl.callConnectorStarted(ConnectorLifecycleHelperImpl.java:108)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl$1.lambda$run$0(ConnectorImpl.java:198)
+Caused by: com.mathworks.util.ShutdownRuntimeException: Java is shutting down
+	at com.mathworks.mvm.MvmFactory.nativeGetCurrentMvmHandle(Native Method)
+	at com.mathworks.mvm.MvmFactory.getCurrentMVM(MvmFactory.java:674)
+	at com.mathworks.mvm.context.MvmContext.get(MvmContext.java:100)
+	at com.mathworks.services.settings.SettingPath.<init>(SettingPath.java:213)
+	at com.mathworks.pathdataservice.PathDataService.getEphemeralRootsSetting(PathDataService.java:288)
+	at com.mathworks.pathdataservice.PathDataService.updateEphemeralRoots(PathDataService.java:325)
+	at com.mathworks.pathdataservice.PathDataService.startService(PathDataService.java:102)
+	at com.mathworks.pathdataservice.PathDataService.start(PathDataService.java:72)
+	at com.mathworks.pathdataservice.PathDataService.startListening(PathDataService.java:66)
+	... 6 more
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/9/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+9
+doitFinished
+java.lang.ExceptionInInitializerError
+	at com.mathworks.mde.editor.plugins.editordataservice.debug.DebuggerInstaller.initializeListeners(DebuggerInstaller.java:78)
+	at com.mathworks.mde.editor.plugins.editordataservice.debug.DebuggerInstaller.<init>(DebuggerInstaller.java:64)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at java.lang.Class.newInstance(Class.java:442)
+	at com.mathworks.services.editordataservice.EditorDataServiceManager.initializeSingletonEditorFeatures(EditorDataServiceManager.java:120)
+	at com.mathworks.services.editordataservice.EditorDataServiceManager.initialize(EditorDataServiceManager.java:95)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl.startEditor(ConnectorImpl.java:564)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl.doStart(ConnectorImpl.java:421)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl$1.lambda$run$0(ConnectorImpl.java:193)
+Caused by: com.mathworks.util.ShutdownRuntimeException: Java is shutting down
+	at com.mathworks.mvm.MvmFactory.nativeGetCurrentMvmHandle(Native Method)
+	at com.mathworks.mvm.MvmFactory.getCurrentMVM(MvmFactory.java:674)
+	at com.mathworks.mlwidgets.stack.StackInfoRegistry.<clinit>(StackInfoRegistry.java:44)
+	... 12 more
+java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.mathworks.matlabserver.connector.impl.ConnectorLifecycleHelperImpl.callConnectorStarted(ConnectorLifecycleHelperImpl.java:108)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl$1.lambda$run$0(ConnectorImpl.java:198)
+Caused by: com.mathworks.util.ShutdownRuntimeException: Java is shutting down
+	at com.mathworks.mvm.MvmFactory.nativeGetCurrentMvmHandle(Native Method)
+	at com.mathworks.mvm.MvmFactory.getCurrentMVM(MvmFactory.java:674)
+	at com.mathworks.mvm.context.MvmContext.get(MvmContext.java:100)
+	at com.mathworks.services.settings.SettingPath.<init>(SettingPath.java:213)
+	at com.mathworks.pathdataservice.PathDataService.getEphemeralRootsSetting(PathDataService.java:288)
+	at com.mathworks.pathdataservice.PathDataService.updateEphemeralRoots(PathDataService.java:325)
+	at com.mathworks.pathdataservice.PathDataService.startService(PathDataService.java:102)
+	at com.mathworks.pathdataservice.PathDataService.start(PathDataService.java:72)
+	at com.mathworks.pathdataservice.PathDataService.startListening(PathDataService.java:66)
+	... 6 more
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/7/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+7
+doitFinished
+java.lang.ExceptionInInitializerError
+	at com.mathworks.mde.editor.plugins.editordataservice.debug.DebuggerInstaller.initializeListeners(DebuggerInstaller.java:78)
+	at com.mathworks.mde.editor.plugins.editordataservice.debug.DebuggerInstaller.<init>(DebuggerInstaller.java:64)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at java.lang.Class.newInstance(Class.java:442)
+	at com.mathworks.services.editordataservice.EditorDataServiceManager.initializeSingletonEditorFeatures(EditorDataServiceManager.java:120)
+	at com.mathworks.services.editordataservice.EditorDataServiceManager.initialize(EditorDataServiceManager.java:95)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl.startEditor(ConnectorImpl.java:564)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl.doStart(ConnectorImpl.java:421)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl$1.lambda$run$0(ConnectorImpl.java:193)
+Caused by: com.mathworks.util.ShutdownRuntimeException: Java is shutting down
+	at com.mathworks.mvm.MvmFactory.nativeGetCurrentMvmHandle(Native Method)
+	at com.mathworks.mvm.MvmFactory.getCurrentMVM(MvmFactory.java:674)
+	at com.mathworks.mlwidgets.stack.StackInfoRegistry.<clinit>(StackInfoRegistry.java:44)
+	... 12 more
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/32/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+32
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/25/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+25
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/27/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+27
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/26/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+26
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/34/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+34
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/29/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+29
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/28/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+28
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/31/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+31
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/35/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+35
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/33/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+33
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/42/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+42
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/39/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+39
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/36/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+36
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/48/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+48
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/45/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+45
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/38/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+38
+doitFinished
+com.mathworks.util.ShutdownRuntimeException: Java is shutting down
+	at com.mathworks.services.Prefs.nativeGetPreferencesDirectory(Native Method)
+	at com.mathworks.services.Prefs.getPropertyDirectory(Prefs.java:239)
+	at com.mathworks.services.binding.MatlabKeyBindingPreferenceUtils.resolveToPrefDir(MatlabKeyBindingPreferenceUtils.java:112)
+	at com.mathworks.services.binding.MatlabKeyBindingPreferences.getModifiedDefaultFile(MatlabKeyBindingPreferences.java:213)
+	at com.mathworks.services.binding.MatlabKeyBindingPreferences.resolveModifiedDefaultFilesFromPrefs(MatlabKeyBindingPreferences.java:116)
+	at com.mathworks.services.binding.MatlabKeyBindings.initializeFromPrefs(MatlabKeyBindings.java:739)
+	at com.mathworks.services.binding.MatlabKeyBindings.<clinit>(MatlabKeyBindings.java:606)
+	at com.mathworks.widgets.debug.DebuggerManager$ActionShell.<init>(DebuggerManager.java:194)
+	at com.mathworks.widgets.debug.DebuggerManager$ActionShell.<init>(DebuggerManager.java:190)
+	at com.mathworks.widgets.debug.DebuggerManager$DebuggerShellActions$1.<init>(DebuggerManager.java:97)
+	at com.mathworks.widgets.debug.DebuggerManager$DebuggerShellActions.<clinit>(DebuggerManager.java:97)
+	at com.mathworks.widgets.debug.DebuggerManager.getContinueActionNoEcho(DebuggerManager.java:287)
+	at com.mathworks.mde.editor.plugins.editordataservice.debug.DebuggerInstaller.initializeListeners(DebuggerInstaller.java:84)
+	at com.mathworks.mde.editor.plugins.editordataservice.debug.DebuggerInstaller.<init>(DebuggerInstaller.java:64)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at java.lang.Class.newInstance(Class.java:442)
+	at com.mathworks.services.editordataservice.EditorDataServiceManager.initializeSingletonEditorFeatures(EditorDataServiceManager.java:120)
+	at com.mathworks.services.editordataservice.EditorDataServiceManager.initialize(EditorDataServiceManager.java:95)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl.startEditor(ConnectorImpl.java:564)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl.doStart(ConnectorImpl.java:421)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl$1.lambda$run$0(ConnectorImpl.java:193)
+java.lang.Error: Java is shutting down
+com.mathworks.services.Prefs.nativeGetPreferencesDirectory(Native Method)
+com.mathworks.services.Prefs.getPropertyDirectory(Prefs.java:239)
+com.mathworks.services.binding.MatlabKeyBindingPreferenceUtils.resolveToPrefDir(MatlabKeyBindingPreferenceUtils.java:112)
+com.mathworks.services.binding.MatlabKeyBindingPreferences.getModifiedDefaultFile(MatlabKeyBindingPreferences.java:213)
+com.mathworks.services.binding.MatlabKeyBindingPreferences.resolveModifiedDefaultFilesFromPrefs(MatlabKeyBindingPreferences.java:116)
+
+	at com.mathworks.services.binding.MatlabKeyBindings.<clinit>(MatlabKeyBindings.java:626)
+	at com.mathworks.widgets.debug.DebuggerManager$ActionShell.<init>(DebuggerManager.java:194)
+	at com.mathworks.widgets.debug.DebuggerManager$ActionShell.<init>(DebuggerManager.java:190)
+	at com.mathworks.widgets.debug.DebuggerManager$DebuggerShellActions$1.<init>(DebuggerManager.java:97)
+	at com.mathworks.widgets.debug.DebuggerManager$DebuggerShellActions.<clinit>(DebuggerManager.java:97)
+	at com.mathworks.widgets.debug.DebuggerManager.getContinueActionNoEcho(DebuggerManager.java:287)
+	at com.mathworks.mde.editor.plugins.editordataservice.debug.DebuggerInstaller.initializeListeners(DebuggerInstaller.java:84)
+	at com.mathworks.mde.editor.plugins.editordataservice.debug.DebuggerInstaller.<init>(DebuggerInstaller.java:64)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at java.lang.Class.newInstance(Class.java:442)
+	at com.mathworks.services.editordataservice.EditorDataServiceManager.initializeSingletonEditorFeatures(EditorDataServiceManager.java:120)
+	at com.mathworks.services.editordataservice.EditorDataServiceManager.initialize(EditorDataServiceManager.java:95)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl.startEditor(ConnectorImpl.java:564)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl.doStart(ConnectorImpl.java:421)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl$1.lambda$run$0(ConnectorImpl.java:193)
+java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.mathworks.matlabserver.connector.impl.ConnectorLifecycleHelperImpl.callConnectorStarted(ConnectorLifecycleHelperImpl.java:108)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl$1.lambda$run$0(ConnectorImpl.java:198)
+Caused by: com.mathworks.util.ShutdownRuntimeException: Java is shutting down
+	at com.mathworks.mvm.MvmFactory.nativeGetCurrentMvmHandle(Native Method)
+	at com.mathworks.mvm.MvmFactory.getCurrentMVM(MvmFactory.java:674)
+	at com.mathworks.mvm.context.MvmContext.get(MvmContext.java:100)
+	at com.mathworks.services.settings.SettingPath.<init>(SettingPath.java:213)
+	at com.mathworks.pathdataservice.PathDataService.getEphemeralRootsSetting(PathDataService.java:288)
+	at com.mathworks.pathdataservice.PathDataService.updateEphemeralRoots(PathDataService.java:325)
+	at com.mathworks.pathdataservice.PathDataService.startService(PathDataService.java:102)
+	at com.mathworks.pathdataservice.PathDataService.start(PathDataService.java:72)
+	at com.mathworks.pathdataservice.PathDataService.startListening(PathDataService.java:66)
+	... 6 more
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/43/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+43
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/30/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+30
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/47/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+47
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/44/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+44
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/41/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+41
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/46/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+46
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/37/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+37
+doitFinished
+java.lang.ExceptionInInitializerError
+	at com.mathworks.mde.editor.plugins.editordataservice.debug.DebuggerInstaller.initializeListeners(DebuggerInstaller.java:78)
+	at com.mathworks.mde.editor.plugins.editordataservice.debug.DebuggerInstaller.<init>(DebuggerInstaller.java:64)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at java.lang.Class.newInstance(Class.java:442)
+	at com.mathworks.services.editordataservice.EditorDataServiceManager.initializeSingletonEditorFeatures(EditorDataServiceManager.java:120)
+	at com.mathworks.services.editordataservice.EditorDataServiceManager.initialize(EditorDataServiceManager.java:95)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl.startEditor(ConnectorImpl.java:564)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl.doStart(ConnectorImpl.java:421)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl$1.lambda$run$0(ConnectorImpl.java:193)
+Caused by: com.mathworks.util.ShutdownRuntimeException: Java is shutting down
+	at com.mathworks.mvm.MvmFactory.nativeGetCurrentMvmHandle(Native Method)
+	at com.mathworks.mvm.MvmFactory.getCurrentMVM(MvmFactory.java:674)
+	at com.mathworks.mlwidgets.stack.StackInfoRegistry.<clinit>(StackInfoRegistry.java:44)
+	... 12 more
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/52/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+52
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/49/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+49
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/54/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+54
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/63/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+63
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/60/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+60
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/57/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+57
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/61/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+61
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/50/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+50
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/55/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+55
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/58/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+58
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/59/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+59
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/51/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+51
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/62/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+62
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/56/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+56
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/53/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+53
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/64/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+64
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/66/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+66
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/65/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+65
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/67/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+67
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/68/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+68
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/71/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+71
+doitFinished
+com.mathworks.util.ShutdownRuntimeException: Java is shutting down
+	at com.mathworks.services.Prefs.nativeGetPreferencesDirectory(Native Method)
+	at com.mathworks.services.Prefs.getPropertyDirectory(Prefs.java:239)
+	at com.mathworks.services.binding.MatlabKeyBindingPreferenceUtils.resolveToPrefDir(MatlabKeyBindingPreferenceUtils.java:112)
+	at com.mathworks.services.binding.MatlabKeyBindingPreferences.getModifiedDefaultFile(MatlabKeyBindingPreferences.java:213)
+	at com.mathworks.services.binding.MatlabKeyBindingPreferences.resolveModifiedDefaultFilesFromPrefs(MatlabKeyBindingPreferences.java:116)
+	at com.mathworks.services.binding.MatlabKeyBindings.initializeFromPrefs(MatlabKeyBindings.java:739)
+	at com.mathworks.services.binding.MatlabKeyBindings.<clinit>(MatlabKeyBindings.java:606)
+	at com.mathworks.widgets.debug.DebuggerManager$ActionShell.<init>(DebuggerManager.java:194)
+	at com.mathworks.widgets.debug.DebuggerManager$ActionShell.<init>(DebuggerManager.java:190)
+	at com.mathworks.widgets.debug.DebuggerManager$DebuggerShellActions$1.<init>(DebuggerManager.java:97)
+	at com.mathworks.widgets.debug.DebuggerManager$DebuggerShellActions.<clinit>(DebuggerManager.java:97)
+	at com.mathworks.widgets.debug.DebuggerManager.getContinueActionNoEcho(DebuggerManager.java:287)
+	at com.mathworks.mde.editor.plugins.editordataservice.debug.DebuggerInstaller.initializeListeners(DebuggerInstaller.java:84)
+	at com.mathworks.mde.editor.plugins.editordataservice.debug.DebuggerInstaller.<init>(DebuggerInstaller.java:64)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at java.lang.Class.newInstance(Class.java:442)
+	at com.mathworks.services.editordataservice.EditorDataServiceManager.initializeSingletonEditorFeatures(EditorDataServiceManager.java:120)
+	at com.mathworks.services.editordataservice.EditorDataServiceManager.initialize(EditorDataServiceManager.java:95)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl.startEditor(ConnectorImpl.java:564)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl.doStart(ConnectorImpl.java:421)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl$1.lambda$run$0(ConnectorImpl.java:193)
+java.lang.Error: Java is shutting down
+com.mathworks.services.Prefs.nativeGetPreferencesDirectory(Native Method)
+com.mathworks.services.Prefs.getPropertyDirectory(Prefs.java:239)
+com.mathworks.services.binding.MatlabKeyBindingPreferenceUtils.resolveToPrefDir(MatlabKeyBindingPreferenceUtils.java:112)
+com.mathworks.services.binding.MatlabKeyBindingPreferences.getModifiedDefaultFile(MatlabKeyBindingPreferences.java:213)
+com.mathworks.services.binding.MatlabKeyBindingPreferences.resolveModifiedDefaultFilesFromPrefs(MatlabKeyBindingPreferences.java:116)
+
+	at com.mathworks.services.binding.MatlabKeyBindings.<clinit>(MatlabKeyBindings.java:626)
+	at com.mathworks.widgets.debug.DebuggerManager$ActionShell.<init>(DebuggerManager.java:194)
+	at com.mathworks.widgets.debug.DebuggerManager$ActionShell.<init>(DebuggerManager.java:190)
+	at com.mathworks.widgets.debug.DebuggerManager$DebuggerShellActions$1.<init>(DebuggerManager.java:97)
+	at com.mathworks.widgets.debug.DebuggerManager$DebuggerShellActions.<clinit>(DebuggerManager.java:97)
+	at com.mathworks.widgets.debug.DebuggerManager.getContinueActionNoEcho(DebuggerManager.java:287)
+	at com.mathworks.mde.editor.plugins.editordataservice.debug.DebuggerInstaller.initializeListeners(DebuggerInstaller.java:84)
+	at com.mathworks.mde.editor.plugins.editordataservice.debug.DebuggerInstaller.<init>(DebuggerInstaller.java:64)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at java.lang.Class.newInstance(Class.java:442)
+	at com.mathworks.services.editordataservice.EditorDataServiceManager.initializeSingletonEditorFeatures(EditorDataServiceManager.java:120)
+	at com.mathworks.services.editordataservice.EditorDataServiceManager.initialize(EditorDataServiceManager.java:95)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl.startEditor(ConnectorImpl.java:564)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl.doStart(ConnectorImpl.java:421)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl$1.lambda$run$0(ConnectorImpl.java:193)
+java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.mathworks.matlabserver.connector.impl.ConnectorLifecycleHelperImpl.callConnectorStarted(ConnectorLifecycleHelperImpl.java:108)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl$1.lambda$run$0(ConnectorImpl.java:198)
+Caused by: com.mathworks.util.ShutdownRuntimeException: Java is shutting down
+	at com.mathworks.mvm.MvmFactory.nativeGetCurrentMvmHandle(Native Method)
+	at com.mathworks.mvm.MvmFactory.getCurrentMVM(MvmFactory.java:674)
+	at com.mathworks.mvm.context.MvmContext.get(MvmContext.java:100)
+	at com.mathworks.services.settings.SettingPath.<init>(SettingPath.java:213)
+	at com.mathworks.pathdataservice.PathDataService.getEphemeralRootsSetting(PathDataService.java:288)
+	at com.mathworks.pathdataservice.PathDataService.updateEphemeralRoots(PathDataService.java:325)
+	at com.mathworks.pathdataservice.PathDataService.startService(PathDataService.java:102)
+	at com.mathworks.pathdataservice.PathDataService.start(PathDataService.java:72)
+	at com.mathworks.pathdataservice.PathDataService.startListening(PathDataService.java:66)
+	... 6 more
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/70/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+70
+doitFinished
+com.mathworks.util.ShutdownRuntimeException: Java is shutting down
+	at com.mathworks.services.Prefs.nativeGetPreferencesDirectory(Native Method)
+	at com.mathworks.services.Prefs.getPropertyDirectory(Prefs.java:239)
+	at com.mathworks.services.binding.MatlabKeyBindingPreferenceUtils.resolveToPrefDir(MatlabKeyBindingPreferenceUtils.java:112)
+	at com.mathworks.services.binding.MatlabKeyBindingPreferences.getModifiedDefaultFile(MatlabKeyBindingPreferences.java:213)
+	at com.mathworks.services.binding.MatlabKeyBindingPreferences.resolveModifiedDefaultFilesFromPrefs(MatlabKeyBindingPreferences.java:116)
+	at com.mathworks.services.binding.MatlabKeyBindings.initializeFromPrefs(MatlabKeyBindings.java:739)
+	at com.mathworks.services.binding.MatlabKeyBindings.<clinit>(MatlabKeyBindings.java:606)
+	at com.mathworks.widgets.debug.DebuggerManager$ActionShell.<init>(DebuggerManager.java:194)
+	at com.mathworks.widgets.debug.DebuggerManager$ActionShell.<init>(DebuggerManager.java:190)
+	at com.mathworks.widgets.debug.DebuggerManager$DebuggerShellActions$1.<init>(DebuggerManager.java:97)
+	at com.mathworks.widgets.debug.DebuggerManager$DebuggerShellActions.<clinit>(DebuggerManager.java:97)
+	at com.mathworks.widgets.debug.DebuggerManager.getContinueActionNoEcho(DebuggerManager.java:287)
+	at com.mathworks.mde.editor.plugins.editordataservice.debug.DebuggerInstaller.initializeListeners(DebuggerInstaller.java:84)
+	at com.mathworks.mde.editor.plugins.editordataservice.debug.DebuggerInstaller.<init>(DebuggerInstaller.java:64)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at java.lang.Class.newInstance(Class.java:442)
+	at com.mathworks.services.editordataservice.EditorDataServiceManager.initializeSingletonEditorFeatures(EditorDataServiceManager.java:120)
+	at com.mathworks.services.editordataservice.EditorDataServiceManager.initialize(EditorDataServiceManager.java:95)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl.startEditor(ConnectorImpl.java:564)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl.doStart(ConnectorImpl.java:421)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl$1.lambda$run$0(ConnectorImpl.java:193)
+java.lang.Error: Java is shutting down
+com.mathworks.services.Prefs.nativeGetPreferencesDirectory(Native Method)
+com.mathworks.services.Prefs.getPropertyDirectory(Prefs.java:239)
+com.mathworks.services.binding.MatlabKeyBindingPreferenceUtils.resolveToPrefDir(MatlabKeyBindingPreferenceUtils.java:112)
+com.mathworks.services.binding.MatlabKeyBindingPreferences.getModifiedDefaultFile(MatlabKeyBindingPreferences.java:213)
+com.mathworks.services.binding.MatlabKeyBindingPreferences.resolveModifiedDefaultFilesFromPrefs(MatlabKeyBindingPreferences.java:116)
+
+	at com.mathworks.services.binding.MatlabKeyBindings.<clinit>(MatlabKeyBindings.java:626)
+	at com.mathworks.widgets.debug.DebuggerManager$ActionShell.<init>(DebuggerManager.java:194)
+	at com.mathworks.widgets.debug.DebuggerManager$ActionShell.<init>(DebuggerManager.java:190)
+	at com.mathworks.widgets.debug.DebuggerManager$DebuggerShellActions$1.<init>(DebuggerManager.java:97)
+	at com.mathworks.widgets.debug.DebuggerManager$DebuggerShellActions.<clinit>(DebuggerManager.java:97)
+	at com.mathworks.widgets.debug.DebuggerManager.getContinueActionNoEcho(DebuggerManager.java:287)
+	at com.mathworks.mde.editor.plugins.editordataservice.debug.DebuggerInstaller.initializeListeners(DebuggerInstaller.java:84)
+	at com.mathworks.mde.editor.plugins.editordataservice.debug.DebuggerInstaller.<init>(DebuggerInstaller.java:64)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at java.lang.Class.newInstance(Class.java:442)
+	at com.mathworks.services.editordataservice.EditorDataServiceManager.initializeSingletonEditorFeatures(EditorDataServiceManager.java:120)
+	at com.mathworks.services.editordataservice.EditorDataServiceManager.initialize(EditorDataServiceManager.java:95)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl.startEditor(ConnectorImpl.java:564)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl.doStart(ConnectorImpl.java:421)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl$1.lambda$run$0(ConnectorImpl.java:193)
+java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.mathworks.matlabserver.connector.impl.ConnectorLifecycleHelperImpl.callConnectorStarted(ConnectorLifecycleHelperImpl.java:108)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl$1.lambda$run$0(ConnectorImpl.java:198)
+Caused by: com.mathworks.util.ShutdownRuntimeException: Java is shutting down
+	at com.mathworks.mvm.MvmFactory.nativeGetCurrentMvmHandle(Native Method)
+	at com.mathworks.mvm.MvmFactory.getCurrentMVM(MvmFactory.java:674)
+	at com.mathworks.mvm.context.MvmContext.get(MvmContext.java:100)
+	at com.mathworks.services.settings.SettingPath.<init>(SettingPath.java:213)
+	at com.mathworks.pathdataservice.PathDataService.getEphemeralRootsSetting(PathDataService.java:288)
+	at com.mathworks.pathdataservice.PathDataService.updateEphemeralRoots(PathDataService.java:325)
+	at com.mathworks.pathdataservice.PathDataService.startService(PathDataService.java:102)
+	at com.mathworks.pathdataservice.PathDataService.start(PathDataService.java:72)
+	at com.mathworks.pathdataservice.PathDataService.startListening(PathDataService.java:66)
+	... 6 more
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/72/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+72
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/69/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+69
+doitFinished
+java.lang.ExceptionInInitializerError
+	at com.mathworks.mde.editor.plugins.editordataservice.debug.DebuggerInstaller.initializeListeners(DebuggerInstaller.java:78)
+	at com.mathworks.mde.editor.plugins.editordataservice.debug.DebuggerInstaller.<init>(DebuggerInstaller.java:64)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at java.lang.Class.newInstance(Class.java:442)
+	at com.mathworks.services.editordataservice.EditorDataServiceManager.initializeSingletonEditorFeatures(EditorDataServiceManager.java:120)
+	at com.mathworks.services.editordataservice.EditorDataServiceManager.initialize(EditorDataServiceManager.java:95)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl.startEditor(ConnectorImpl.java:564)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl.doStart(ConnectorImpl.java:421)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl$1.lambda$run$0(ConnectorImpl.java:193)
+Caused by: com.mathworks.util.ShutdownRuntimeException: Java is shutting down
+	at com.mathworks.mvm.MvmFactory.nativeGetCurrentMvmHandle(Native Method)
+	at com.mathworks.mvm.MvmFactory.getCurrentMVM(MvmFactory.java:674)
+	at com.mathworks.mlwidgets.stack.StackInfoRegistry.<clinit>(StackInfoRegistry.java:44)
+	... 12 more
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/78/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+78
+doitFinished
+java.lang.ExceptionInInitializerError
+	at com.mathworks.mde.editor.plugins.editordataservice.debug.DebuggerInstaller.initializeListeners(DebuggerInstaller.java:78)
+	at com.mathworks.mde.editor.plugins.editordataservice.debug.DebuggerInstaller.<init>(DebuggerInstaller.java:64)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at java.lang.Class.newInstance(Class.java:442)
+	at com.mathworks.services.editordataservice.EditorDataServiceManager.initializeSingletonEditorFeatures(EditorDataServiceManager.java:120)
+	at com.mathworks.services.editordataservice.EditorDataServiceManager.initialize(EditorDataServiceManager.java:95)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl.startEditor(ConnectorImpl.java:564)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl.doStart(ConnectorImpl.java:421)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl$1.lambda$run$0(ConnectorImpl.java:193)
+Caused by: com.mathworks.util.ShutdownRuntimeException: Java is shutting down
+	at com.mathworks.mvm.MvmFactory.nativeGetCurrentMvmHandle(Native Method)
+	at com.mathworks.mvm.MvmFactory.getCurrentMVM(MvmFactory.java:674)
+	at com.mathworks.mlwidgets.stack.StackInfoRegistry.<clinit>(StackInfoRegistry.java:44)
+	... 12 more
+java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.mathworks.matlabserver.connector.impl.ConnectorLifecycleHelperImpl.callConnectorStarted(ConnectorLifecycleHelperImpl.java:108)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl$1.lambda$run$0(ConnectorImpl.java:198)
+Caused by: com.mathworks.util.ShutdownRuntimeException: Java is shutting down
+	at com.mathworks.mvm.MvmFactory.nativeGetCurrentMvmHandle(Native Method)
+	at com.mathworks.mvm.MvmFactory.getCurrentMVM(MvmFactory.java:674)
+	at com.mathworks.mvm.context.MvmContext.get(MvmContext.java:100)
+	at com.mathworks.services.settings.SettingPath.<init>(SettingPath.java:213)
+	at com.mathworks.pathdataservice.PathDataService.getEphemeralRootsSetting(PathDataService.java:288)
+	at com.mathworks.pathdataservice.PathDataService.updateEphemeralRoots(PathDataService.java:325)
+	at com.mathworks.pathdataservice.PathDataService.startService(PathDataService.java:102)
+	at com.mathworks.pathdataservice.PathDataService.start(PathDataService.java:72)
+	at com.mathworks.pathdataservice.PathDataService.startListening(PathDataService.java:66)
+	... 6 more
+
+MATLAB killed because the Java VM could not be terminated for 30 seconds.
+This could be due to a thread or timer that started right before shutdown,
+or a finalizer or shutdown hook that took too long to run.
+
+
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/93/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+93
+doitFinished
+java.lang.ExceptionInInitializerError
+	at com.mathworks.mde.editor.plugins.editordataservice.debug.DebuggerInstaller.initializeListeners(DebuggerInstaller.java:78)
+	at com.mathworks.mde.editor.plugins.editordataservice.debug.DebuggerInstaller.<init>(DebuggerInstaller.java:64)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at java.lang.Class.newInstance(Class.java:442)
+	at com.mathworks.services.editordataservice.EditorDataServiceManager.initializeSingletonEditorFeatures(EditorDataServiceManager.java:120)
+	at com.mathworks.services.editordataservice.EditorDataServiceManager.initialize(EditorDataServiceManager.java:95)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl.startEditor(ConnectorImpl.java:564)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl.doStart(ConnectorImpl.java:421)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl$1.lambda$run$0(ConnectorImpl.java:193)
+Caused by: com.mathworks.util.ShutdownRuntimeException: Java is shutting down
+	at com.mathworks.mvm.MvmFactory.nativeGetCurrentMvmHandle(Native Method)
+	at com.mathworks.mvm.MvmFactory.getCurrentMVM(MvmFactory.java:674)
+	at com.mathworks.mlwidgets.stack.StackInfoRegistry.<clinit>(StackInfoRegistry.java:44)
+	... 12 more
+java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.mathworks.matlabserver.connector.impl.ConnectorLifecycleHelperImpl.callConnectorStarted(ConnectorLifecycleHelperImpl.java:108)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl$1.lambda$run$0(ConnectorImpl.java:198)
+Caused by: com.mathworks.util.ShutdownRuntimeException: Java is shutting down
+	at com.mathworks.mvm.MvmFactory.nativeGetCurrentMvmHandle(Native Method)
+	at com.mathworks.mvm.MvmFactory.getCurrentMVM(MvmFactory.java:674)
+	at com.mathworks.mvm.context.MvmContext.get(MvmContext.java:100)
+	at com.mathworks.services.settings.SettingPath.<init>(SettingPath.java:213)
+	at com.mathworks.pathdataservice.PathDataService.getEphemeralRootsSetting(PathDataService.java:288)
+	at com.mathworks.pathdataservice.PathDataService.updateEphemeralRoots(PathDataService.java:325)
+	at com.mathworks.pathdataservice.PathDataService.startService(PathDataService.java:102)
+	at com.mathworks.pathdataservice.PathDataService.start(PathDataService.java:72)
+	at com.mathworks.pathdataservice.PathDataService.startListening(PathDataService.java:66)
+	... 6 more
+
+MATLAB killed because the Java VM could not be terminated for 30 seconds.
+This could be due to a thread or timer that started right before shutdown,
+or a finalizer or shutdown hook that took too long to run.
+
+
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/88/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+88
+doitFinished
+java.lang.ExceptionInInitializerError
+	at com.mathworks.mde.editor.plugins.editordataservice.debug.DebuggerInstaller.initializeListeners(DebuggerInstaller.java:78)
+	at com.mathworks.mde.editor.plugins.editordataservice.debug.DebuggerInstaller.<init>(DebuggerInstaller.java:64)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at java.lang.Class.newInstance(Class.java:442)
+	at com.mathworks.services.editordataservice.EditorDataServiceManager.initializeSingletonEditorFeatures(EditorDataServiceManager.java:120)
+	at com.mathworks.services.editordataservice.EditorDataServiceManager.initialize(EditorDataServiceManager.java:95)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl.startEditor(ConnectorImpl.java:564)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl.doStart(ConnectorImpl.java:421)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl$1.lambda$run$0(ConnectorImpl.java:193)
+Caused by: com.mathworks.util.ShutdownRuntimeException: Java is shutting down
+	at com.mathworks.mvm.MvmFactory.nativeGetCurrentMvmHandle(Native Method)
+	at com.mathworks.mvm.MvmFactory.getCurrentMVM(MvmFactory.java:674)
+	at com.mathworks.mlwidgets.stack.StackInfoRegistry.<clinit>(StackInfoRegistry.java:44)
+	... 12 more
+java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.mathworks.matlabserver.connector.impl.ConnectorLifecycleHelperImpl.callConnectorStarted(ConnectorLifecycleHelperImpl.java:108)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl$1.lambda$run$0(ConnectorImpl.java:198)
+Caused by: com.mathworks.util.ShutdownRuntimeException: Java is shutting down
+	at com.mathworks.mvm.MvmFactory.nativeGetCurrentMvmHandle(Native Method)
+	at com.mathworks.mvm.MvmFactory.getCurrentMVM(MvmFactory.java:674)
+	at com.mathworks.mvm.context.MvmContext.get(MvmContext.java:100)
+	at com.mathworks.services.settings.SettingPath.<init>(SettingPath.java:213)
+	at com.mathworks.pathdataservice.PathDataService.getEphemeralRootsSetting(PathDataService.java:288)
+	at com.mathworks.pathdataservice.PathDataService.updateEphemeralRoots(PathDataService.java:325)
+	at com.mathworks.pathdataservice.PathDataService.startService(PathDataService.java:102)
+	at com.mathworks.pathdataservice.PathDataService.start(PathDataService.java:72)
+	at com.mathworks.pathdataservice.PathDataService.startListening(PathDataService.java:66)
+	... 6 more
+
+MATLAB killed because the Java VM could not be terminated for 30 seconds.
+This could be due to a thread or timer that started right before shutdown,
+or a finalizer or shutdown hook that took too long to run.
+
+
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/95/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+95
+doitFinished
+java.lang.ExceptionInInitializerError
+	at com.mathworks.mde.editor.plugins.editordataservice.debug.DebuggerInstaller.initializeListeners(DebuggerInstaller.java:78)
+	at com.mathworks.mde.editor.plugins.editordataservice.debug.DebuggerInstaller.<init>(DebuggerInstaller.java:64)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at java.lang.Class.newInstance(Class.java:442)
+	at com.mathworks.services.editordataservice.EditorDataServiceManager.initializeSingletonEditorFeatures(EditorDataServiceManager.java:120)
+	at com.mathworks.services.editordataservice.EditorDataServiceManager.initialize(EditorDataServiceManager.java:95)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl.startEditor(ConnectorImpl.java:564)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl.doStart(ConnectorImpl.java:421)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl$1.lambda$run$0(ConnectorImpl.java:193)
+Caused by: com.mathworks.util.ShutdownRuntimeException: Java is shutting down
+	at com.mathworks.mvm.MvmFactory.nativeGetCurrentMvmHandle(Native Method)
+	at com.mathworks.mvm.MvmFactory.getCurrentMVM(MvmFactory.java:674)
+	at com.mathworks.mlwidgets.stack.StackInfoRegistry.<clinit>(StackInfoRegistry.java:44)
+	... 12 more
+java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.mathworks.matlabserver.connector.impl.ConnectorLifecycleHelperImpl.callConnectorStarted(ConnectorLifecycleHelperImpl.java:108)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl$1.lambda$run$0(ConnectorImpl.java:198)
+Caused by: com.mathworks.util.ShutdownRuntimeException: Java is shutting down
+	at com.mathworks.mvm.MvmFactory.nativeGetCurrentMvmHandle(Native Method)
+	at com.mathworks.mvm.MvmFactory.getCurrentMVM(MvmFactory.java:674)
+	at com.mathworks.mvm.context.MvmContext.get(MvmContext.java:100)
+	at com.mathworks.services.settings.SettingPath.<init>(SettingPath.java:213)
+	at com.mathworks.pathdataservice.PathDataService.getEphemeralRootsSetting(PathDataService.java:288)
+	at com.mathworks.pathdataservice.PathDataService.updateEphemeralRoots(PathDataService.java:325)
+	at com.mathworks.pathdataservice.PathDataService.startService(PathDataService.java:102)
+	at com.mathworks.pathdataservice.PathDataService.start(PathDataService.java:72)
+	at com.mathworks.pathdataservice.PathDataService.startListening(PathDataService.java:66)
+	... 6 more
+
+MATLAB killed because the Java VM could not be terminated for 30 seconds.
+This could be due to a thread or timer that started right before shutdown,
+or a finalizer or shutdown hook that took too long to run.
+
+
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/77/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+77
+doitFinished
+java.lang.ExceptionInInitializerError
+	at com.mathworks.mde.editor.plugins.editordataservice.debug.DebuggerInstaller.initializeListeners(DebuggerInstaller.java:78)
+	at com.mathworks.mde.editor.plugins.editordataservice.debug.DebuggerInstaller.<init>(DebuggerInstaller.java:64)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at java.lang.Class.newInstance(Class.java:442)
+	at com.mathworks.services.editordataservice.EditorDataServiceManager.initializeSingletonEditorFeatures(EditorDataServiceManager.java:120)
+	at com.mathworks.services.editordataservice.EditorDataServiceManager.initialize(EditorDataServiceManager.java:95)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl.startEditor(ConnectorImpl.java:564)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl.doStart(ConnectorImpl.java:421)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl$1.lambda$run$0(ConnectorImpl.java:193)
+Caused by: com.mathworks.util.ShutdownRuntimeException: Java is shutting down
+	at com.mathworks.mvm.MvmFactory.nativeGetCurrentMvmHandle(Native Method)
+	at com.mathworks.mvm.MvmFactory.getCurrentMVM(MvmFactory.java:674)
+	at com.mathworks.mlwidgets.stack.StackInfoRegistry.<clinit>(StackInfoRegistry.java:44)
+	... 12 more
+java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.mathworks.matlabserver.connector.impl.ConnectorLifecycleHelperImpl.callConnectorStarted(ConnectorLifecycleHelperImpl.java:108)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl$1.lambda$run$0(ConnectorImpl.java:198)
+Caused by: com.mathworks.util.ShutdownRuntimeException: Java is shutting down
+	at com.mathworks.mvm.MvmFactory.nativeGetCurrentMvmHandle(Native Method)
+	at com.mathworks.mvm.MvmFactory.getCurrentMVM(MvmFactory.java:674)
+	at com.mathworks.mvm.context.MvmContext.get(MvmContext.java:100)
+	at com.mathworks.services.settings.SettingPath.<init>(SettingPath.java:213)
+	at com.mathworks.pathdataservice.PathDataService.getEphemeralRootsSetting(PathDataService.java:288)
+	at com.mathworks.pathdataservice.PathDataService.updateEphemeralRoots(PathDataService.java:325)
+	at com.mathworks.pathdataservice.PathDataService.startService(PathDataService.java:102)
+	at com.mathworks.pathdataservice.PathDataService.start(PathDataService.java:72)
+	at com.mathworks.pathdataservice.PathDataService.startListening(PathDataService.java:66)
+	... 6 more
+
+MATLAB killed because the Java VM could not be terminated for 30 seconds.
+This could be due to a thread or timer that started right before shutdown,
+or a finalizer or shutdown hook that took too long to run.
+
+
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/73/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+73
+doitFinished
+java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.mathworks.matlabserver.connector.impl.ConnectorLifecycleHelperImpl.callConnectorStarted(ConnectorLifecycleHelperImpl.java:108)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl$1.lambda$run$0(ConnectorImpl.java:198)
+Caused by: com.mathworks.util.ShutdownRuntimeException: Java is shutting down
+	at com.mathworks.mvm.MvmFactory.nativeGetCurrentMvmHandle(Native Method)
+	at com.mathworks.mvm.MvmFactory.getCurrentMVM(MvmFactory.java:674)
+	at com.mathworks.mvm.context.MvmContext.get(MvmContext.java:100)
+	at com.mathworks.services.settings.SettingPath.<init>(SettingPath.java:213)
+	at com.mathworks.pathdataservice.PathDataService.getEphemeralRootsSetting(PathDataService.java:288)
+	at com.mathworks.pathdataservice.PathDataService.updateEphemeralRoots(PathDataService.java:325)
+	at com.mathworks.pathdataservice.PathDataService.startService(PathDataService.java:102)
+	at com.mathworks.pathdataservice.PathDataService.start(PathDataService.java:72)
+	at com.mathworks.pathdataservice.PathDataService.startListening(PathDataService.java:66)
+	... 6 more
+
+MATLAB killed because the Java VM could not be terminated for 30 seconds.
+This could be due to a thread or timer that started right before shutdown,
+or a finalizer or shutdown hook that took too long to run.
+
+
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/86/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+86
+doitFinished
+
+MATLAB killed because the Java VM could not be terminated for 30 seconds.
+This could be due to a thread or timer that started right before shutdown,
+or a finalizer or shutdown hook that took too long to run.
+
+
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/94/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+94
+doitFinished
+
+MATLAB killed because the Java VM could not be terminated for 30 seconds.
+This could be due to a thread or timer that started right before shutdown,
+or a finalizer or shutdown hook that took too long to run.
+
+
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/74/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+74
+doitFinished
+
+MATLAB killed because the Java VM could not be terminated for 30 seconds.
+This could be due to a thread or timer that started right before shutdown,
+or a finalizer or shutdown hook that took too long to run.
+
+
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/85/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+85
+doitFinished
+
+MATLAB killed because the Java VM could not be terminated for 30 seconds.
+This could be due to a thread or timer that started right before shutdown,
+or a finalizer or shutdown hook that took too long to run.
+
+
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/92/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+92
+doitFinished
+java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.mathworks.matlabserver.connector.impl.ConnectorLifecycleHelperImpl.callConnectorStarted(ConnectorLifecycleHelperImpl.java:108)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl$1.lambda$run$0(ConnectorImpl.java:198)
+Caused by: com.mathworks.util.ShutdownRuntimeException: Java is shutting down
+	at com.mathworks.mvm.MvmFactory.nativeGetCurrentMvmHandle(Native Method)
+	at com.mathworks.mvm.MvmFactory.getCurrentMVM(MvmFactory.java:674)
+	at com.mathworks.mvm.context.MvmContext.get(MvmContext.java:100)
+	at com.mathworks.services.settings.SettingPath.<init>(SettingPath.java:213)
+	at com.mathworks.pathdataservice.PathDataService.getEphemeralRootsSetting(PathDataService.java:288)
+	at com.mathworks.pathdataservice.PathDataService.updateEphemeralRoots(PathDataService.java:325)
+	at com.mathworks.pathdataservice.PathDataService.startService(PathDataService.java:102)
+	at com.mathworks.pathdataservice.PathDataService.start(PathDataService.java:72)
+	at com.mathworks.pathdataservice.PathDataService.startListening(PathDataService.java:66)
+	... 6 more
+
+MATLAB killed because the Java VM could not be terminated for 30 seconds.
+This could be due to a thread or timer that started right before shutdown,
+or a finalizer or shutdown hook that took too long to run.
+
+
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/76/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+76
+doitFinished
+
+MATLAB killed because the Java VM could not be terminated for 30 seconds.
+This could be due to a thread or timer that started right before shutdown,
+or a finalizer or shutdown hook that took too long to run.
+
+
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/80/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+80
+doitFinished
+java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.mathworks.matlabserver.connector.impl.ConnectorLifecycleHelperImpl.callConnectorStarted(ConnectorLifecycleHelperImpl.java:108)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl$1.lambda$run$0(ConnectorImpl.java:198)
+Caused by: com.mathworks.util.ShutdownRuntimeException: Java is shutting down
+	at com.mathworks.mvm.MvmFactory.nativeGetCurrentMvmHandle(Native Method)
+	at com.mathworks.mvm.MvmFactory.getCurrentMVM(MvmFactory.java:674)
+	at com.mathworks.mvm.context.MvmContext.get(MvmContext.java:100)
+	at com.mathworks.services.settings.SettingPath.<init>(SettingPath.java:213)
+	at com.mathworks.pathdataservice.PathDataService.getEphemeralRootsSetting(PathDataService.java:288)
+	at com.mathworks.pathdataservice.PathDataService.updateEphemeralRoots(PathDataService.java:325)
+	at com.mathworks.pathdataservice.PathDataService.startService(PathDataService.java:102)
+	at com.mathworks.pathdataservice.PathDataService.start(PathDataService.java:72)
+	at com.mathworks.pathdataservice.PathDataService.startListening(PathDataService.java:66)
+	... 6 more
+
+MATLAB killed because the Java VM could not be terminated for 30 seconds.
+This could be due to a thread or timer that started right before shutdown,
+or a finalizer or shutdown hook that took too long to run.
+
+
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/81/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+81
+doitFinished
+com.mathworks.util.ShutdownRuntimeException: Java is shutting down
+	at com.mathworks.services.Prefs.nativeGetPreferencesDirectory(Native Method)
+	at com.mathworks.services.Prefs.getPropertyDirectory(Prefs.java:239)
+	at com.mathworks.services.binding.MatlabKeyBindingPreferenceUtils.resolveToPrefDir(MatlabKeyBindingPreferenceUtils.java:112)
+	at com.mathworks.services.binding.MatlabKeyBindingPreferences.getModifiedDefaultFile(MatlabKeyBindingPreferences.java:213)
+	at com.mathworks.services.binding.MatlabKeyBindingPreferences.resolveModifiedDefaultFilesFromPrefs(MatlabKeyBindingPreferences.java:116)
+	at com.mathworks.services.binding.MatlabKeyBindings.initializeFromPrefs(MatlabKeyBindings.java:739)
+	at com.mathworks.services.binding.MatlabKeyBindings.<clinit>(MatlabKeyBindings.java:606)
+	at com.mathworks.widgets.debug.DebuggerManager$ActionShell.<init>(DebuggerManager.java:194)
+	at com.mathworks.widgets.debug.DebuggerManager$ActionShell.<init>(DebuggerManager.java:190)
+	at com.mathworks.widgets.debug.DebuggerManager$DebuggerShellActions$1.<init>(DebuggerManager.java:97)
+	at com.mathworks.widgets.debug.DebuggerManager$DebuggerShellActions.<clinit>(DebuggerManager.java:97)
+	at com.mathworks.widgets.debug.DebuggerManager.getContinueActionNoEcho(DebuggerManager.java:287)
+	at com.mathworks.mde.editor.plugins.editordataservice.debug.DebuggerInstaller.initializeListeners(DebuggerInstaller.java:84)
+	at com.mathworks.mde.editor.plugins.editordataservice.debug.DebuggerInstaller.<init>(DebuggerInstaller.java:64)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at java.lang.Class.newInstance(Class.java:442)
+	at com.mathworks.services.editordataservice.EditorDataServiceManager.initializeSingletonEditorFeatures(EditorDataServiceManager.java:120)
+	at com.mathworks.services.editordataservice.EditorDataServiceManager.initialize(EditorDataServiceManager.java:95)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl.startEditor(ConnectorImpl.java:564)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl.doStart(ConnectorImpl.java:421)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl$1.lambda$run$0(ConnectorImpl.java:193)
+java.lang.Error: Java is shutting down
+com.mathworks.services.Prefs.nativeGetPreferencesDirectory(Native Method)
+com.mathworks.services.Prefs.getPropertyDirectory(Prefs.java:239)
+com.mathworks.services.binding.MatlabKeyBindingPreferenceUtils.resolveToPrefDir(MatlabKeyBindingPreferenceUtils.java:112)
+com.mathworks.services.binding.MatlabKeyBindingPreferences.getModifiedDefaultFile(MatlabKeyBindingPreferences.java:213)
+com.mathworks.services.binding.MatlabKeyBindingPreferences.resolveModifiedDefaultFilesFromPrefs(MatlabKeyBindingPreferences.java:116)
+
+	at com.mathworks.services.binding.MatlabKeyBindings.<clinit>(MatlabKeyBindings.java:626)
+	at com.mathworks.widgets.debug.DebuggerManager$ActionShell.<init>(DebuggerManager.java:194)
+	at com.mathworks.widgets.debug.DebuggerManager$ActionShell.<init>(DebuggerManager.java:190)
+	at com.mathworks.widgets.debug.DebuggerManager$DebuggerShellActions$1.<init>(DebuggerManager.java:97)
+	at com.mathworks.widgets.debug.DebuggerManager$DebuggerShellActions.<clinit>(DebuggerManager.java:97)
+	at com.mathworks.widgets.debug.DebuggerManager.getContinueActionNoEcho(DebuggerManager.java:287)
+	at com.mathworks.mde.editor.plugins.editordataservice.debug.DebuggerInstaller.initializeListeners(DebuggerInstaller.java:84)
+	at com.mathworks.mde.editor.plugins.editordataservice.debug.DebuggerInstaller.<init>(DebuggerInstaller.java:64)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at java.lang.Class.newInstance(Class.java:442)
+	at com.mathworks.services.editordataservice.EditorDataServiceManager.initializeSingletonEditorFeatures(EditorDataServiceManager.java:120)
+	at com.mathworks.services.editordataservice.EditorDataServiceManager.initialize(EditorDataServiceManager.java:95)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl.startEditor(ConnectorImpl.java:564)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl.doStart(ConnectorImpl.java:421)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl$1.lambda$run$0(ConnectorImpl.java:193)
+java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.mathworks.matlabserver.connector.impl.ConnectorLifecycleHelperImpl.callConnectorStarted(ConnectorLifecycleHelperImpl.java:108)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl$1.lambda$run$0(ConnectorImpl.java:198)
+Caused by: com.mathworks.util.ShutdownRuntimeException: Java is shutting down
+	at com.mathworks.mvm.MvmFactory.nativeGetCurrentMvmHandle(Native Method)
+	at com.mathworks.mvm.MvmFactory.getCurrentMVM(MvmFactory.java:674)
+	at com.mathworks.mvm.context.MvmContext.get(MvmContext.java:100)
+	at com.mathworks.services.settings.SettingPath.<init>(SettingPath.java:213)
+	at com.mathworks.pathdataservice.PathDataService.getEphemeralRootsSetting(PathDataService.java:288)
+	at com.mathworks.pathdataservice.PathDataService.updateEphemeralRoots(PathDataService.java:325)
+	at com.mathworks.pathdataservice.PathDataService.startService(PathDataService.java:102)
+	at com.mathworks.pathdataservice.PathDataService.start(PathDataService.java:72)
+	at com.mathworks.pathdataservice.PathDataService.startListening(PathDataService.java:66)
+	... 6 more
+
+MATLAB killed because the Java VM could not be terminated for 30 seconds.
+This could be due to a thread or timer that started right before shutdown,
+or a finalizer or shutdown hook that took too long to run.
+
+
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/82/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+82
+doitFinished
+
+MATLAB killed because the Java VM could not be terminated for 30 seconds.
+This could be due to a thread or timer that started right before shutdown,
+or a finalizer or shutdown hook that took too long to run.
+
+
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/90/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+90
+doitFinished
+
+MATLAB killed because the Java VM could not be terminated for 30 seconds.
+This could be due to a thread or timer that started right before shutdown,
+or a finalizer or shutdown hook that took too long to run.
+
+
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/91/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+91
+doitFinished
+
+MATLAB killed because the Java VM could not be terminated for 30 seconds.
+This could be due to a thread or timer that started right before shutdown,
+or a finalizer or shutdown hook that took too long to run.
+
+
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/96/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+96
+doitFinished
+
+MATLAB killed because the Java VM could not be terminated for 30 seconds.
+This could be due to a thread or timer that started right before shutdown,
+or a finalizer or shutdown hook that took too long to run.
+
+
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/79/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+79
+doitFinished
+
+MATLAB killed because the Java VM could not be terminated for 30 seconds.
+This could be due to a thread or timer that started right before shutdown,
+or a finalizer or shutdown hook that took too long to run.
+
+
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/87/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+87
+doitFinished
+
+MATLAB killed because the Java VM could not be terminated for 30 seconds.
+This could be due to a thread or timer that started right before shutdown,
+or a finalizer or shutdown hook that took too long to run.
+
+
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/84/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+84
+doitFinished
+com.mathworks.util.ShutdownRuntimeException: Java is shutting down
+	at com.mathworks.services.Prefs.nativeGetPreferencesDirectory(Native Method)
+	at com.mathworks.services.Prefs.getPropertyDirectory(Prefs.java:239)
+	at com.mathworks.services.binding.MatlabKeyBindingPreferenceUtils.resolveToPrefDir(MatlabKeyBindingPreferenceUtils.java:112)
+	at com.mathworks.services.binding.MatlabKeyBindingPreferences.getModifiedDefaultFile(MatlabKeyBindingPreferences.java:213)
+	at com.mathworks.services.binding.MatlabKeyBindingPreferences.resolveModifiedDefaultFilesFromPrefs(MatlabKeyBindingPreferences.java:116)
+	at com.mathworks.services.binding.MatlabKeyBindings.initializeFromPrefs(MatlabKeyBindings.java:739)
+	at com.mathworks.services.binding.MatlabKeyBindings.<clinit>(MatlabKeyBindings.java:606)
+	at com.mathworks.widgets.debug.DebuggerManager$ActionShell.<init>(DebuggerManager.java:194)
+	at com.mathworks.widgets.debug.DebuggerManager$ActionShell.<init>(DebuggerManager.java:190)
+	at com.mathworks.widgets.debug.DebuggerManager$DebuggerShellActions$1.<init>(DebuggerManager.java:97)
+	at com.mathworks.widgets.debug.DebuggerManager$DebuggerShellActions.<clinit>(DebuggerManager.java:97)
+	at com.mathworks.widgets.debug.DebuggerManager.getContinueActionNoEcho(DebuggerManager.java:287)
+	at com.mathworks.mde.editor.plugins.editordataservice.debug.DebuggerInstaller.initializeListeners(DebuggerInstaller.java:84)
+	at com.mathworks.mde.editor.plugins.editordataservice.debug.DebuggerInstaller.<init>(DebuggerInstaller.java:64)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at java.lang.Class.newInstance(Class.java:442)
+	at com.mathworks.services.editordataservice.EditorDataServiceManager.initializeSingletonEditorFeatures(EditorDataServiceManager.java:120)
+	at com.mathworks.services.editordataservice.EditorDataServiceManager.initialize(EditorDataServiceManager.java:95)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl.startEditor(ConnectorImpl.java:564)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl.doStart(ConnectorImpl.java:421)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl$1.lambda$run$0(ConnectorImpl.java:193)
+java.lang.Error: Java is shutting down
+com.mathworks.services.Prefs.nativeGetPreferencesDirectory(Native Method)
+com.mathworks.services.Prefs.getPropertyDirectory(Prefs.java:239)
+com.mathworks.services.binding.MatlabKeyBindingPreferenceUtils.resolveToPrefDir(MatlabKeyBindingPreferenceUtils.java:112)
+com.mathworks.services.binding.MatlabKeyBindingPreferences.getModifiedDefaultFile(MatlabKeyBindingPreferences.java:213)
+com.mathworks.services.binding.MatlabKeyBindingPreferences.resolveModifiedDefaultFilesFromPrefs(MatlabKeyBindingPreferences.java:116)
+
+	at com.mathworks.services.binding.MatlabKeyBindings.<clinit>(MatlabKeyBindings.java:626)
+	at com.mathworks.widgets.debug.DebuggerManager$ActionShell.<init>(DebuggerManager.java:194)
+	at com.mathworks.widgets.debug.DebuggerManager$ActionShell.<init>(DebuggerManager.java:190)
+	at com.mathworks.widgets.debug.DebuggerManager$DebuggerShellActions$1.<init>(DebuggerManager.java:97)
+	at com.mathworks.widgets.debug.DebuggerManager$DebuggerShellActions.<clinit>(DebuggerManager.java:97)
+	at com.mathworks.widgets.debug.DebuggerManager.getContinueActionNoEcho(DebuggerManager.java:287)
+	at com.mathworks.mde.editor.plugins.editordataservice.debug.DebuggerInstaller.initializeListeners(DebuggerInstaller.java:84)
+	at com.mathworks.mde.editor.plugins.editordataservice.debug.DebuggerInstaller.<init>(DebuggerInstaller.java:64)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at java.lang.Class.newInstance(Class.java:442)
+	at com.mathworks.services.editordataservice.EditorDataServiceManager.initializeSingletonEditorFeatures(EditorDataServiceManager.java:120)
+	at com.mathworks.services.editordataservice.EditorDataServiceManager.initialize(EditorDataServiceManager.java:95)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl.startEditor(ConnectorImpl.java:564)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl.doStart(ConnectorImpl.java:421)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl$1.lambda$run$0(ConnectorImpl.java:193)
+java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.mathworks.matlabserver.connector.impl.ConnectorLifecycleHelperImpl.callConnectorStarted(ConnectorLifecycleHelperImpl.java:108)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl$1.lambda$run$0(ConnectorImpl.java:198)
+Caused by: com.mathworks.util.ShutdownRuntimeException: Java is shutting down
+	at com.mathworks.mvm.MvmFactory.nativeGetCurrentMvmHandle(Native Method)
+	at com.mathworks.mvm.MvmFactory.getCurrentMVM(MvmFactory.java:674)
+	at com.mathworks.mvm.context.MvmContext.get(MvmContext.java:100)
+	at com.mathworks.services.settings.SettingPath.<init>(SettingPath.java:213)
+	at com.mathworks.pathdataservice.PathDataService.getEphemeralRootsSetting(PathDataService.java:288)
+	at com.mathworks.pathdataservice.PathDataService.updateEphemeralRoots(PathDataService.java:325)
+	at com.mathworks.pathdataservice.PathDataService.startService(PathDataService.java:102)
+	at com.mathworks.pathdataservice.PathDataService.start(PathDataService.java:72)
+	at com.mathworks.pathdataservice.PathDataService.startListening(PathDataService.java:66)
+	... 6 more
+
+MATLAB killed because the Java VM could not be terminated for 30 seconds.
+This could be due to a thread or timer that started right before shutdown,
+or a finalizer or shutdown hook that took too long to run.
+
+
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/89/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+89
+doitFinished
+com.mathworks.util.ShutdownRuntimeException: Java is shutting down
+	at com.mathworks.services.Prefs.nativeGetPreferencesDirectory(Native Method)
+	at com.mathworks.services.Prefs.getPropertyDirectory(Prefs.java:239)
+	at com.mathworks.services.binding.MatlabKeyBindingPreferenceUtils.resolveToPrefDir(MatlabKeyBindingPreferenceUtils.java:112)
+	at com.mathworks.services.binding.MatlabKeyBindingPreferences.getModifiedDefaultFile(MatlabKeyBindingPreferences.java:213)
+	at com.mathworks.services.binding.MatlabKeyBindingPreferences.resolveModifiedDefaultFilesFromPrefs(MatlabKeyBindingPreferences.java:116)
+	at com.mathworks.services.binding.MatlabKeyBindings.initializeFromPrefs(MatlabKeyBindings.java:739)
+	at com.mathworks.services.binding.MatlabKeyBindings.<clinit>(MatlabKeyBindings.java:606)
+	at com.mathworks.widgets.debug.DebuggerManager$ActionShell.<init>(DebuggerManager.java:194)
+	at com.mathworks.widgets.debug.DebuggerManager$ActionShell.<init>(DebuggerManager.java:190)
+	at com.mathworks.widgets.debug.DebuggerManager$DebuggerShellActions$1.<init>(DebuggerManager.java:97)
+	at com.mathworks.widgets.debug.DebuggerManager$DebuggerShellActions.<clinit>(DebuggerManager.java:97)
+	at com.mathworks.widgets.debug.DebuggerManager.getContinueActionNoEcho(DebuggerManager.java:287)
+	at com.mathworks.mde.editor.plugins.editordataservice.debug.DebuggerInstaller.initializeListeners(DebuggerInstaller.java:84)
+	at com.mathworks.mde.editor.plugins.editordataservice.debug.DebuggerInstaller.<init>(DebuggerInstaller.java:64)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at java.lang.Class.newInstance(Class.java:442)
+	at com.mathworks.services.editordataservice.EditorDataServiceManager.initializeSingletonEditorFeatures(EditorDataServiceManager.java:120)
+	at com.mathworks.services.editordataservice.EditorDataServiceManager.initialize(EditorDataServiceManager.java:95)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl.startEditor(ConnectorImpl.java:564)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl.doStart(ConnectorImpl.java:421)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl$1.lambda$run$0(ConnectorImpl.java:193)
+java.lang.Error: Java is shutting down
+com.mathworks.services.Prefs.nativeGetPreferencesDirectory(Native Method)
+com.mathworks.services.Prefs.getPropertyDirectory(Prefs.java:239)
+com.mathworks.services.binding.MatlabKeyBindingPreferenceUtils.resolveToPrefDir(MatlabKeyBindingPreferenceUtils.java:112)
+com.mathworks.services.binding.MatlabKeyBindingPreferences.getModifiedDefaultFile(MatlabKeyBindingPreferences.java:213)
+com.mathworks.services.binding.MatlabKeyBindingPreferences.resolveModifiedDefaultFilesFromPrefs(MatlabKeyBindingPreferences.java:116)
+
+	at com.mathworks.services.binding.MatlabKeyBindings.<clinit>(MatlabKeyBindings.java:626)
+	at com.mathworks.widgets.debug.DebuggerManager$ActionShell.<init>(DebuggerManager.java:194)
+	at com.mathworks.widgets.debug.DebuggerManager$ActionShell.<init>(DebuggerManager.java:190)
+	at com.mathworks.widgets.debug.DebuggerManager$DebuggerShellActions$1.<init>(DebuggerManager.java:97)
+	at com.mathworks.widgets.debug.DebuggerManager$DebuggerShellActions.<clinit>(DebuggerManager.java:97)
+	at com.mathworks.widgets.debug.DebuggerManager.getContinueActionNoEcho(DebuggerManager.java:287)
+	at com.mathworks.mde.editor.plugins.editordataservice.debug.DebuggerInstaller.initializeListeners(DebuggerInstaller.java:84)
+	at com.mathworks.mde.editor.plugins.editordataservice.debug.DebuggerInstaller.<init>(DebuggerInstaller.java:64)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at java.lang.Class.newInstance(Class.java:442)
+	at com.mathworks.services.editordataservice.EditorDataServiceManager.initializeSingletonEditorFeatures(EditorDataServiceManager.java:120)
+	at com.mathworks.services.editordataservice.EditorDataServiceManager.initialize(EditorDataServiceManager.java:95)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl.startEditor(ConnectorImpl.java:564)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl.doStart(ConnectorImpl.java:421)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl$1.lambda$run$0(ConnectorImpl.java:193)
+java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.mathworks.matlabserver.connector.impl.ConnectorLifecycleHelperImpl.callConnectorStarted(ConnectorLifecycleHelperImpl.java:108)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl$1.lambda$run$0(ConnectorImpl.java:198)
+Caused by: com.mathworks.util.ShutdownRuntimeException: Java is shutting down
+	at com.mathworks.mvm.MvmFactory.nativeGetCurrentMvmHandle(Native Method)
+	at com.mathworks.mvm.MvmFactory.getCurrentMVM(MvmFactory.java:674)
+	at com.mathworks.mvm.context.MvmContext.get(MvmContext.java:100)
+	at com.mathworks.services.settings.SettingPath.<init>(SettingPath.java:213)
+	at com.mathworks.pathdataservice.PathDataService.getEphemeralRootsSetting(PathDataService.java:288)
+	at com.mathworks.pathdataservice.PathDataService.updateEphemeralRoots(PathDataService.java:325)
+	at com.mathworks.pathdataservice.PathDataService.startService(PathDataService.java:102)
+	at com.mathworks.pathdataservice.PathDataService.start(PathDataService.java:72)
+	at com.mathworks.pathdataservice.PathDataService.startListening(PathDataService.java:66)
+	... 6 more
+
+MATLAB killed because the Java VM could not be terminated for 30 seconds.
+This could be due to a thread or timer that started right before shutdown,
+or a finalizer or shutdown hook that took too long to run.
+
+
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/75/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+75
+doitFinished
+java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.mathworks.matlabserver.connector.impl.ConnectorLifecycleHelperImpl.callConnectorStarted(ConnectorLifecycleHelperImpl.java:108)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl$1.lambda$run$0(ConnectorImpl.java:198)
+Caused by: com.mathworks.util.ShutdownRuntimeException: Java is shutting down
+	at com.mathworks.mvm.MvmFactory.nativeGetCurrentMvmHandle(Native Method)
+	at com.mathworks.mvm.MvmFactory.getCurrentMVM(MvmFactory.java:674)
+	at com.mathworks.mvm.context.MvmContext.get(MvmContext.java:100)
+	at com.mathworks.services.settings.SettingPath.<init>(SettingPath.java:213)
+	at com.mathworks.pathdataservice.PathDataService.getEphemeralRootsSetting(PathDataService.java:288)
+	at com.mathworks.pathdataservice.PathDataService.updateEphemeralRoots(PathDataService.java:325)
+	at com.mathworks.pathdataservice.PathDataService.startService(PathDataService.java:102)
+	at com.mathworks.pathdataservice.PathDataService.start(PathDataService.java:72)
+	at com.mathworks.pathdataservice.PathDataService.startListening(PathDataService.java:66)
+	... 6 more
+
+MATLAB killed because the Java VM could not be terminated for 30 seconds.
+This could be due to a thread or timer that started right before shutdown,
+or a finalizer or shutdown hook that took too long to run.
+
+
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/83/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+83
+doitFinished
+java.lang.ExceptionInInitializerError
+	at com.mathworks.mde.editor.plugins.editordataservice.debug.DebuggerInstaller.initializeListeners(DebuggerInstaller.java:78)
+	at com.mathworks.mde.editor.plugins.editordataservice.debug.DebuggerInstaller.<init>(DebuggerInstaller.java:64)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at java.lang.Class.newInstance(Class.java:442)
+	at com.mathworks.services.editordataservice.EditorDataServiceManager.initializeSingletonEditorFeatures(EditorDataServiceManager.java:120)
+	at com.mathworks.services.editordataservice.EditorDataServiceManager.initialize(EditorDataServiceManager.java:95)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl.startEditor(ConnectorImpl.java:564)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl.doStart(ConnectorImpl.java:421)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl$1.lambda$run$0(ConnectorImpl.java:193)
+Caused by: com.mathworks.util.ShutdownRuntimeException: Java is shutting down
+	at com.mathworks.mvm.MvmFactory.nativeGetCurrentMvmHandle(Native Method)
+	at com.mathworks.mvm.MvmFactory.getCurrentMVM(MvmFactory.java:674)
+	at com.mathworks.mlwidgets.stack.StackInfoRegistry.<clinit>(StackInfoRegistry.java:44)
+	... 12 more
+java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.mathworks.matlabserver.connector.impl.ConnectorLifecycleHelperImpl.callConnectorStarted(ConnectorLifecycleHelperImpl.java:108)
+	at com.mathworks.matlabserver.connector.impl.ConnectorImpl$1.lambda$run$0(ConnectorImpl.java:198)
+Caused by: com.mathworks.util.ShutdownRuntimeException: Java is shutting down
+	at com.mathworks.mvm.MvmFactory.nativeGetCurrentMvmHandle(Native Method)
+	at com.mathworks.mvm.MvmFactory.getCurrentMVM(MvmFactory.java:674)
+	at com.mathworks.mvm.context.MvmContext.get(MvmContext.java:100)
+	at com.mathworks.services.settings.SettingPath.<init>(SettingPath.java:213)
+	at com.mathworks.pathdataservice.PathDataService.getEphemeralRootsSetting(PathDataService.java:288)
+	at com.mathworks.pathdataservice.PathDataService.updateEphemeralRoots(PathDataService.java:325)
+	at com.mathworks.pathdataservice.PathDataService.startService(PathDataService.java:102)
+	at com.mathworks.pathdataservice.PathDataService.start(PathDataService.java:72)
+	at com.mathworks.pathdataservice.PathDataService.startListening(PathDataService.java:66)
+	... 6 more
+
+MATLAB killed because the Java VM could not be terminated for 30 seconds.
+This could be due to a thread or timer that started right before shutdown,
+or a finalizer or shutdown hook that took too long to run.
+
+
+parallel: SIGTERM received. No new jobs will be started.
+parallel: Waiting for these 25 jobs to finish. Send SIGTERM again to stop now.
+parallel: doit /storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject2-num_subjects8/1/
+parallel: doit /storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject2-num_subjects8/12/
+parallel: doit /storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject2-num_subjects8/24/
+parallel: doit /storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject2-num_subjects8/7/
+parallel: doit /storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject2-num_subjects8/20/
+parallel: doit /storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject2-num_subjects8/6/
+parallel: doit /storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject2-num_subjects8/0/
+parallel: doit /storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject2-num_subjects8/16/
+parallel: doit /storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject2-num_subjects8/14/
+parallel: doit /storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject2-num_subjects8/5/
+parallel: doit /storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject2-num_subjects8/19/
+parallel: doit /storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject2-num_subjects8/22/
+parallel: doit /storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject2-num_subjects8/15/
+parallel: doit /storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject2-num_subjects8/4/
+parallel: doit /storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject2-num_subjects8/17/
+parallel: doit /storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject2-num_subjects8/11/
+parallel: doit /storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject2-num_subjects8/3/
+parallel: doit /storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject2-num_subjects8/9/
+parallel: doit /storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject2-num_subjects8/13/
+parallel: doit /storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject2-num_subjects8/23/
+parallel: doit /storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject2-num_subjects8/21/
+parallel: doit /storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject2-num_subjects8/8/
+parallel: doit /storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject2-num_subjects8/18/
+parallel: doit /storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject2-num_subjects8/2/
+parallel: doit /storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject2-num_subjects8/10/
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/98/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+98
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject2-num_subjects8/19/
+settingSSoS_r_time0-time_horizon2-r_subject2-num_subjects8
+19
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject2-num_subjects8/12/
+settingSSoS_r_time0-time_horizon2-r_subject2-num_subjects8
+12
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject2-num_subjects8/9/
+settingSSoS_r_time0-time_horizon2-r_subject2-num_subjects8
+9
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject2-num_subjects8/15/
+settingSSoS_r_time0-time_horizon2-r_subject2-num_subjects8
+15
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject2-num_subjects8/13/
+settingSSoS_r_time0-time_horizon2-r_subject2-num_subjects8
+13
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject2-num_subjects8/5/
+settingSSoS_r_time0-time_horizon2-r_subject2-num_subjects8
+5
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject2-num_subjects8/1/
+settingSSoS_r_time0-time_horizon2-r_subject2-num_subjects8
+1
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject2-num_subjects8/16/
+settingSSoS_r_time0-time_horizon2-r_subject2-num_subjects8
+16
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject2-num_subjects8/8/
+settingSSoS_r_time0-time_horizon2-r_subject2-num_subjects8
+8
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject2-num_subjects8/6/
+settingSSoS_r_time0-time_horizon2-r_subject2-num_subjects8
+6
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject2-num_subjects8/14/
+settingSSoS_r_time0-time_horizon2-r_subject2-num_subjects8
+14
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/99/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+99
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject2-num_subjects8/17/
+settingSSoS_r_time0-time_horizon2-r_subject2-num_subjects8
+17
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject2-num_subjects8/10/
+settingSSoS_r_time0-time_horizon2-r_subject2-num_subjects8
+10
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject2-num_subjects8/24/
+settingSSoS_r_time0-time_horizon2-r_subject2-num_subjects8
+24
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject2-num_subjects8/3/
+settingSSoS_r_time0-time_horizon2-r_subject2-num_subjects8
+3
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject2-num_subjects8/0/
+settingSSoS_r_time0-time_horizon2-r_subject2-num_subjects8
+0
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject2-num_subjects8/23/
+settingSSoS_r_time0-time_horizon2-r_subject2-num_subjects8
+23
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject0-num_subjects8/97/
+settingSSoS_r_time0-time_horizon2-r_subject0-num_subjects8
+97
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject2-num_subjects8/11/
+settingSSoS_r_time0-time_horizon2-r_subject2-num_subjects8
+11
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject2-num_subjects8/22/
+settingSSoS_r_time0-time_horizon2-r_subject2-num_subjects8
+22
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject2-num_subjects8/2/
+settingSSoS_r_time0-time_horizon2-r_subject2-num_subjects8
+2
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject2-num_subjects8/21/
+settingSSoS_r_time0-time_horizon2-r_subject2-num_subjects8
+21
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject2-num_subjects8/7/
+settingSSoS_r_time0-time_horizon2-r_subject2-num_subjects8
+7
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject2-num_subjects8/18/
+settingSSoS_r_time0-time_horizon2-r_subject2-num_subjects8
+18
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject2-num_subjects8/20/
+settingSSoS_r_time0-time_horizon2-r_subject2-num_subjects8
+20
+doitFinished
+/storage08/shuchen/SimulationData/settingSSoS/n500-k10-p_in2btw4-p_out1btw1/r_time0-time_horizon2-r_subject2-num_subjects8/4/
+settingSSoS_r_time0-time_horizon2-r_subject2-num_subjects8
+4
+doitFinished
